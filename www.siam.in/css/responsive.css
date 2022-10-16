@@ -1,0 +1,1837 @@
+@media only screen and (max-width: 480px) {
+.navigationPanel{display:none;}
+.hide{display:none;}
+.component_list .col155{width: 203px;}
+.rightLinks ul li a{position:relative; z-index:1;}
+.participantType ul li{width:44%;}
+.radioOption {width:100%;}
+.radioOption tr:first-child td:first-child{border:none}
+.radioOption tr td:first-child{border-top:1px solid #c8d0da;padding-top:10px;padding-bottom:3px;}
+.radioOption td{display:block;padding-bottom:7px;width:100%;}
+}
+
+
+@media only screen and (max-width: 640px){
+.companyInfo .verticlgrid li{padding:11px 0 7px;}	
+.companyInfo .topheader, .safety_regulation .topheader, .viewCommittee .topheader {display:none;}
+.companyInfo .compLogoBox:before{content:"Company Logo"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px;}
+.companyInfo .w250:before{content:"Company Name"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px;}
+.companyInfo .w236:before{content:"Contact Person"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px;}
+.companyInfo .w236:before{content:"City"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px;}
+.companyInfo .w95:before{content:"View Details"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px;}
+.companyInfo ul.grid li.compLogoBox, .members_list .companyInfo ul.grid li.w250, .companyInfo ul.grid li.w236, .members_list .view_registration ul.grid li.w157, .view_registration ul.grid li.w95{width:97%; text-align:right !important;}
+.view_registration ul.grid li{display:table;}
+.companyInfo .grid li:nth-child(odd) {background: #f5f5f5;}
+.companyInfo .grid li:nth-child(even){background: #e5e5e5;}
+.companyInfo ul.grid li{margin-bottom: 6px;padding-bottom: 6px;padding-right:10px;}	
+.heading2{font-size:31px;}
+
+.safety_regulation .divAuto .col1{max-width:100%;}
+.safety_regulation .divAuto .emissonpg{max-width:339px; float:none; margin-bottom:20px;}
+.safety_regulation .divAuto .emissonpg img{height:auto;}
+.safety_regulation .notification_table .view_registration ul.grid li.w88:before{content:"SI.No."; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px; }
+.safety_regulation .notification_table .view_registration ul.grid li.w151:before{content:"ECE/EEC"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w95:before{content:"AIS/IS"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w250:before{content:"Subject"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w157:before{content:"Date of Implementation "; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px;}
+
+.safety_regulation .notification_table .view_registration ul.grid li.w88, .safety_regulation .notification_table .view_registration ul.grid li.w151, .safety_regulation .notification_table .view_registration ul.grid li.w95, .safety_regulation .notification_table .view_registration ul.grid li.w250, .safety_regulation .notification_table .view_registration ul.grid li.w157{width:100%; text-align:right !important; background:none; margin:0px;}
+.notification_table .view_registration .verticlgrid li{word-wrap:break-word;display:table; float:none !important; width:95%; margin-bottom:20px;}
+.component_list h2{font-size:19px;}
+.safety_regulation .verticlgrid li:nth-child(odd) {background: #f5f5f5;}
+.safety_regulation .verticlgrid li:nth-child(even){background: #e5e5e5;}
+
+.lambda .col11{max-width: 100%;}
+.lambda .row12 .col1{max-width: 338px; float:none; margin: 0 auto;}
+.lambda .row12 .col1 img{height:auto;}
+.lambda .col16{max-width: 100%;}
+.lambda .divAuto .col1{max-width: 100%;}
+
+.harmonization .col1{max-width: 100%;}
+.harmonization .emissonpg{max-width:100%; float:none;}
+.harmonization .box3{max-width: 91%;padding: 19px 17px 17px; margin-bottom:20px;}
+.harmonization .col11{max-width:100%;}
+.automobile_grid .horrizontal_li .w200{width:100px;}
+
+.motor_rules .automobile_grid li{width: 571px;}
+.motor_rules .automobile_grid {overflow-x: scroll;}
+.motor_rules .automobile_grid li .horrizontal_li .w200{width: 114px;}
+img{height:auto;}
+
+.budget_memorandum .horrizontal_li .w200{ width:96px;}
+.budget_memorandum .segment_grid1 .horrizontal_li .w108 {width: 91px;}
+.taxTableGrid .automobile_grid .horrizontal_li li.w549 {max-width: 212px;}
+.taxTableGrid .automobile_grid .horrizontal_li li.w456{margin-right: 9px;    max-width: 114px;}
+.budget_memorandum .taxTableGrid, .budget_memorandum .segment_grid1{overflow-x: scroll;}
+.budget_memorandum .automobile_grid {width: 650px;}
+.budget_memorandum .taxTableGrid .automobile_grid {width: 553px;}
+.capacity li{margin-bottom:30px; max-width:100%;}
+.capacity li .w256{width: 209px;}
+
+.automobile_grid, .statReportsPage{overflow-x: scroll;}
+.automobile_grid li{width: 606px;}
+.automobile_grid .horrizontal_li .w200{width: 68px;}
+.automobile_grid .horrizontal_li .w108{width: 89px;}
+
+.members_list .documentPage ul.grid li.w88 {width: 44px;}
+.members_list .documentPage ul.grid li.w95{width: 83px; text-align:left!important;}
+.members_list .documentPage ul.grid li.w157 {width: 114px;text-align:left!important;}
+.members_list .documentPage ul.grid li.w95{width: 114px;text-align:center !important;}
+.members_list .documentPage ul.grid li{display: inline-table;}
+
+.documentPage .topheader, .documentPage .gridBody{width:656px;}
+.members_list .documentPage{overflow-x: scroll;}
+.members_list .statReportsPage ul.grid li.w250{width: 119px;}
+.members_list .statReportsPage ul.grid li.w88{width: 44px;}
+.statReportsPage .topheader{width:515px;}
+.statReportsPage .gridBody{width: 539px;}
+.members_list .statReportsPage ul.grid li{display: inline-block;}
+.members_list .statReportsPage ul.grid li.w95{width: 95px; text-align:center !important;}
+
+
+.members_list .viewCommittee ul.grid li.w88:before{content:"SI.No."; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px; }
+.members_list .viewCommittee ul.grid li.w250:before{content:"Committee Type"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px; }
+.members_list .viewCommittee ul.grid li.w236:before{content:"Committee Name"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px; }
+.members_list .viewCommittee ul.grid li.w157:before{content:"Person Name"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px; }
+.members_list .viewCommittee ul.grid li.w95:before{content:"View"; font-weight:700; color:#333; display:table-cell; text-align:left; vertical-align:middle;padding-left: 7px; }
+.viewCommittee ul.grid li, .viewCommittee a.view {display: inline-block;}
+.viewCommittee .verticlgrid li:nth-child(odd) {background: #f5f5f5; margin-bottom:20px;}
+.viewCommittee .verticlgrid li:nth-child(even){background: #e5e5e5;margin-bottom:20px;}
+
+
+
+
+
+.members_list .viewCommittee ul.grid li.w88, .members_list .viewCommittee ul.grid li.w250, .members_list .viewCommittee ul.grid li.w236, .members_list .viewCommittee ul.grid li.w157, .members_list .viewCommittee ul.grid li.w95{width:100%; text-align:right !important; background:none; margin:0px;}
+
+
+.innercontent-container .micrositeLeft{padding:0 0 32px 8px; max-width:98%;}
+.inner-header-banner .micrositeLeft{float: none;margin: 0 auto;max-width:99%;}
+.inner-header-banner .micrositeRight{max-width: 97%;padding:10px 10px 10px 4px;}
+.microsite-header-bg .inner-header-banner{height:auto;}
+.innercontent-container{margin: 29px auto 0;}
+.headerLeftLink li {display: inline-block;margin:0px; font-size:14px;}
+.headerLeftLink li a{padding: 6px 9px; border-left:6px solid #bb5a5a;}
+.inner-header-banner .micrositeLeft h1{font-size: 26px;}
+.col10{margin-bottom: 20px;max-width: 100%;}
+.micrositeLeft .col11{max-width:100%;}
+.innercontent-container .micrositeRight{bottom: 0;float: left;left: 14px;    margin-bottom: 16px;right: 0; padding-top:0px;}
+.participantType ul li{width:44%;}
+}
+
+@media only screen and (max-width: 768px){
+.who_we_are .col1, .economic_affairs .col1, .exim_policy .col1{max-width:100%;}
+.who_we_are .col2, .economic_affairs .col2 {float:left; text-align:left; margin-bottom:20px;}
+.who_we_are .divAuto .col1{margin-bottom:20px;}
+.who_we_are .divAuto .box{max-width:96%;padding: 26px 8px 10px 14px;}
+.exim_policy .col16, .wto_automative .col16{max-width:100%;}
+.trade_policies .col1, .wto_automative .col1{max-width:100%;}
+.trade_policies .col2{margin-bottom:30px; max-width:370px; float:left;}
+.gross_turnoverList{overflow-x:scroll; margin-bottom:30px;}
+.gross_turnoverList .view_registration{width:464px;}
+.gross_turnoverList .view_registration ul.grid li.w157{width:70px;}
+.gross_turnoverList .view_registration ul.grid li.w142{width:90px;}
+.gross_turnoverList .view_registration ul.grid li{display:inline-block;}
+}
+
+
+@media (min-width: 320px) and (max-width: 359px) {
+.navigationPanel{display:none;}	
+.display{display:block;}
+.hide{display:none;}
+.main320{display:block;}
+.rightLinks ul li.login a:hover{color:#000; background:none;}
+.caption-block .caption1{top:77%;}
+.rightLinks ul li{margin-right:0px; padding-left:0px; float:none; display:inline-block; text-align:center;}
+.logo{width:181px;}
+.navigationPanel .dropdownNav ul{display:none;}
+.dropdownNav{margin:0px; border:0px;}
+.headerCntr{max-width:286px; height:auto; margin:0 auto; padding-top:17px;}
+.menuCntr{max-width:286px;}
+.rightLinks{margin:15px 0 0; float:left; max-width:327px; border-top:1px solid #d0d0d0; padding-top:7px; text-align:center; width:100%;}
+.rightLinks ul li{padding:7px 5px 0;}
+.rightLinks ul li.usericon{background-position:0 9px;}
+.rightLinks ul{display:inline-block;}
+.rightLinks ul li.login{margin:0; float:none;}
+.rightLinks ul li.login a{background:none; padding:0px; color:#000; font-weight:600;}
+.main320 a.right{top:49px; right:17px;}
+.navMenu{max-width:318px;}
+.dropdownNav ul li{padding:0 6px;}
+.dropdownNav ul li a{font-size:13px;}
+.acdmLft{left:-149px !important;}
+.bannerCntr{max-width:294px;}
+#bannermain{background-size: 100% 95%;}
+.banner-news-container .date{margin:-28px 0px 0; width:75px; line-height:27px;}
+.banner-news-container .news-content{margin:4px 4px 0; font-size:10px;}
+.bannerCntr .callbacks_nav{bottom:1%;}
+.bannerCntr .prev {right:-2px;}
+.bannerCntr .callbacks_nav.next{right:-13px;}
+.banner-news-container .registration-btn-container{margin:-54px 12px 0; width:125px; padding:0px; border-left:0px;}
+.banner-news-container .registration-btn-container .btn{font-size:12px;width:107px; line-height:25px;}
+.slider{max-width:286px; padding:0 4px;}
+/*.slides li{width:310px !important;}*/
+.content-container{margin:22px auto 60px;}
+.flexslider .flex-viewport{max-width:590px;}
+.content-container{max-width:296px;}
+.left-pnl{max-width:100%; margin-bottom:28px;}
+.content-container .hp-right-pnl{max-width:468px; margin:0px;}
+.hp-right-pnl p{width:264px;margin:0 auto;}
+.hp-right-pnl p:nth-child(2){padding-top:40px;}
+.hp-right-pnl p:nth-child(3){padding-top:46px;}
+.hp-right-pnl p:nth-child(2) img{height:80px;}
+.hp-right-pnl p:nth-child(3) img{height:66px;}
+.resp-tabs-container h2.resp-accordion{border-left:0px;border-right:0px;}
+.hp-right-pnl p img{/*width:158px;*/ height:auto; margin:0px;}
+.slider .flexslider .slides > li{padding:0 0 24px 58px;}
+.hp-cntr-Block h2{font-size:32px; line-height:36px; padding:0 0 31px;}
+.hp-cntr-Block h3{font-size:32px;}
+/*mid slider*/
+.hp-cntr-Block{margin:0px; max-width:329px; border-bottom:1px solid #ccc;padding-bottom:34px;}
+.hp-right-pnl{float: left;margin: 0 0 0 20px;max-width: 172px;}
+.hp-right-pnl img{max-width:100%;}
+.hp-cntr-Block .anythingSlider{max-width:329px;height:226px;}
+.hp-cntr-Block .anythingSlider .sliderWrapper{max-width:352px;height:226px;}
+.anythingSlider .sliderWrapper ul li{max-width:329px;}
+.siam-mamber .bx-wrapper .bx-viewport{left: 39px;max-width: 237px;}
+.textfield{width:213px; font-size:12px;}
+/*mid slider*/
+.footer-wrapper{max-width:330px;}
+/*.siam-mamber ul li{max-width:94px;}*/
+.footer-right{width:76%; left:41px; position:absolute; float:left;}
+.footer-left{width:100%; padding-left:0px;margin-top:60px; text-align:center;}
+.dropdownNav ul li.w1{width:63px;}
+.siam-mamber h2{padding:18px 12px;}
+.footerCntr{position:relative; height:275px;}
+.footer-left p br{display:block;}
+.footer-left p:nth-child(2){border-top:1px solid #ccc; padding:12px 0px;margin-top:11px;}
+.footerCntr .footer-wrapper{margin-bottom:0px;}
+.slider .flex-direction-nav a{top:36%;}
+.siam-mamber .bx-wrapper .bx-next{right: 10px;}
+.siam-mamber .bx-wrapper .bx-prev{left:8px;}
+.siam-mamber .bx-wrapper img{width:50px !important;}
+.events li{margin-right:0px;margin-bottom:22px;padding-bottom:18px;width:295px;}
+.eventType{width:139px;}
+.highlighter, .sortingDiv{margin-bottom:20px; float:left; font-size:22px;}
+.news_detail li{width:100%; margin:0px;}
+.news_detail .col12{width:100%;}
+.news_detail .col13{float: left;margin: 0 0 20px;width: 100%;}
+.news_detail .col13 img{width:100%; height:auto;}
+.contentRht{max-width:100%;}
+.media_grid li{width:136px; margin:10px 5px 9px;height:271px;}
+.print-ads li{height:220px;}
+.leftNav{max-width:100%; border-bottom:2px solid #00357d; margin-bottom:30px;}
+.press_detail li .download-btn{float: none;font-size: 17px;margin: 0 auto;width: 260px;}
+.gallery li{height:215px;}
+.gallerySorting{margin:15px 0 0;}
+.gallery2 li{height:179px;}
+.careerPg .col1{max-width:100%; margin-bottom:20px;}
+.careerPg .emissonpg{max-width:100%;}
+
+.frm li label{width:144px;}
+.frm li input, .frm li textarea{width:138px;}
+table#ctl00_ContentPlaceHolder1_GENDER{width: 160px;}
+.frm li select{width:152px;}
+.btnlink a{padding:5px 6px 7px; margin-right:13px;}
+.instruction{margin-right:0px;margin-top:14px;}
+.ex-year{width:182px; margin:0px; float:right;}
+.frm li .ex-year select{margin-left:11px;width: 137px;margin-bottom: 5px;}
+.ex-month{width:184px; float:right;}
+.frm li .ex-month select{width:138px;}
+.frm li .ex-month .select-pointer{right: 6px;}
+.frm li .ex-year .select-pointer, .frm li .ex-month .select-pointer{}
+address{margin-bottom:20px;}
+.reach_us .col2 iframe{width:100%;}
+.frm .captchaInput{ width:44%;margin-left: 0;margin-top: 9px;}
+.frmRight{max-width: 100%; float:left;}
+.frmLeft{max-width: 100%; float:left;}
+.magageProfile  li label{margin-bottom: 13px;width: 100%;}
+.frmLeft .magageProfile .select-pointer{right:7px;}
+.magageProfile li select{width:100%;}
+.magageProfile li input, .magageProfile li textarea{width:94%;}
+.magageProfile .btnlink a{padding: 5px 13px 8px;}
+.frmRight .magageProfile .select-pointer{right: 1px;top: 37px;}
+.frmLeft .magageProfile .select-pointer{top: 37px;right: 1px;}
+.newsletter_grid .first-col{ margin-right: 15px;width: 112px;}
+.newsletter_grid .second-col{padding-top:0px;width:56%;}
+.contentRht .row1 .col9{max-width:100%;}
+.row1 .col7{max-width:100%;}
+
+.publications_grid ul.mgrid li {max-width: 122px;text-align: center;vertical-align: middle;width: 100%;}
+.publications_grid ul.mgrid li.w184{width: 75px;}
+.publications_grid ul.mgrid li.w140{width: 75px;}
+.blueCntr{margin:14px 0 7px;}
+.topTxt{font-size:12px;}
+.head-left h1{font-size: 26px;line-height: 23px;margin-bottom: 4px;}
+.btn3{width:100%;}
+ul.mgrid li{max-width:186px;}
+.monthly_grid .w248{max-width:84px;}
+.emissonpg img{height:auto;}
+.regulatory_page .emissonpg{margin-bottom:20px;}
+.emissonpg img{height:auto;}
+.whiteBullet li{line-height: 1.3; background-position:left 5px;}
+.blueBox{max-width: 247px;padding: 20px 25px;}
+.accordion_table .automobile_grid .horrizontal_li .w200{width: 60px; text-align:center;}
+.emmisions_normsPg .emissonpg .br63{height:30px;}
+.emmisions_normsPg .emissonpg .blue-box{padding: 18px;}
+.sceond .accordion_table .automobile_grid .horrizontal_li .w200{width:59px;}
+.sceond  .segment_grid11, .sceond  .segment_grid1{overflow-x:scroll;}
+.sceond  .segment_grid1 .automobile_grid, .sceond  .segment_grid11 .automobile_grid{width:450px;}
+.notification_table .view_registration .verticlgrid li{width: 93%;}
+
+.vehicle .diesel_vehicles ul.mgrid li{max-width: 94px;}
+.vehicle .diesel_vehicles .monthly_grid .w248{max-width: 138px;}
+.vehicle .diesel_vehicles ul.mgrid li.w248{max-width: 101px;}
+.vehicle .diesel_vehicles ul.mgrid li.w184{width: 67px;}
+.lambda .row12{width:99%;}
+.lambda .box9ca36f{max-width:86%;}
+.lambda .box3{max-width:77%; margin-bottom:20px;}
+.lambda .scenario ul.mgrid li{max-width: 84px;padding-left: 6px;display: -moz-grid; vertical-align:top;}
+.lambda .box5{max-width:88%; margin-bottom:20px;}
+.lambda .vehicle_type ul.mgrid li.w280{max-width: 111px;}
+.lambda .vehicle_type ul.mgrid li{max-width: 80px;}
+.harmonization .box3{max-width: 89%;}
+.notification .view_registration .grid li.w88{width: 45px;}
+.notification .view_registration ul.grid li.w250{width:76px;}
+.notification .view_registration ul.grid li.w157 {margin-left: 7px;width: 143px;}
+.notification .view_registration ul.grid li{display: inline-block;}
+.who_we_are .divAuto .box{max-width:93%;}
+
+.president_member_details{ width: 295px;height: 114px;margin-bottom: 30px;}
+.memeber-img{height: 108px;width: 98px;}
+.memeber-detail{height: 86px;padding:12px 9px;width: 174px; background-size:100%;}
+.memeber-detail h2{margin-bottom: 6px; font-size:16px;}
+.president_membergrid li{margin-right: 13px;width: 139px; height:265px;}
+.memeber-detail h3{font-size: 15px;}
+.president_membergrid li img{height: 158px;}
+.vatPage .monthly_grid ul.mgrid li {max-width: 136px;}
+.budget_memorandum .box10{margin-bottom: 20px; max-width:81%;}
+.budget_memorandum .greenBox{max-width:92%;padding: 13px; margin-right:8px;}
+.budget_memorandum .col2{max-width: 100%;}
+.domestic_marketShare .capacity li ul li.topRow{font-size:16px;}
+
+
+.memeberSearchd li{margin-right: 6px;width: 145px;}
+.memeberSearchd li .eventYear{width: 140px;}
+.memeberSearchd li select{width: 100%;}
+.memeberSearchd li.btnlink{right:34px;}
+.memeberSearchd li input{width:90%;}
+.memebersGrid3 ul.grid li{display: table-cell;}
+.members_list .memebersGrid3 ul.grid li.w157{width:192px; text-align:left !important;}
+.members_list .memebersGrid3 ul.grid li.w95{width:95px;}
+.memebersGrid3 ul.grid li.w88{width: 47px;}
+
+.search_box .search2 li{margin-right: 9px; width:90px;}
+.search_box .search2 li.btnlink{left: 5px;right: 0;top: 9px;}
+.members_list .claendarM ul.grid li.w250{width: 91px;padding-right: 14px;}
+.members_list .claendarM ul.grid li.w95{width: 65px;}
+.members_list .claendarM ul.grid li.w85 {width: 85px;}
+.members_list .claendarM ul.grid li{display: inline-table;}
+.members_list .claendarM ul.grid li.w95{width:38px;}
+.members_list .claendarM ul.grid li.w88{width:41px;}
+
+members_list .circularPAge ul.grid li.w250{width: 184px;}
+.members_list .circularPAge ul.grid li.w88{width: 42px;}
+.members_list .circularPAge ul.grid li.w250{margin-left: 11px;margin-right: 0;   text-align: left;width: 147px;}
+.members_list .circularPAge ul.grid li.w95{width: 41px;}
+.members_list .circularPAge ul.grid li.w157{width: 85px;text-align: center !important;}
+.members_list .circularPAge ul.grid li{display: inline-block;}
+.circularPAge .gridBody, .circularPAge .topheader{width: 450px;}
+.circularPAge{overflow-x:scroll;}
+
+.circularDetailPage{overflow-x: scroll;}
+.circularDetailPage .topheader,.circularDetailPage .gridBody{width:336px;}
+.circular_details .frm li label{width:156px;}
+.members_list .circularDetailPage ul.grid li.w250{margin-right: 10px;width: 205px;}
+.members_list .circularDetailPage ul.grid li.w88{width: 46px;}
+.members_list .circularDetailPage ul.grid li.w95{width: 38px;}
+.members_list .circularDetailPage ul.grid li{display:inline-flex;}
+.memberDetailPage .magageProfile li.memberLogo{width: 102px;}
+.memberDetailPage .magageProfile li.memberLogo label{width: 104px;}
+.documentPg .search2 li.btnlink{top:0px;}
+.search2 li .eventYear {width: 87px;}
+.search2 li select {width: 100%;}
+.siamRegistrationFrm li{margin-right: 0;width:100%;}
+.siamRegistrationFrm li .select-pointer{right:10px;}
+.siamRegistrationFrm li.stateOption .select-pointer{right:12px;}
+.siamRegistrationFrm li.btnlink a{margin-right: 5px; padding:6px 16px 7px;font-size: 13px;}
+.siamRegistrationFrm li input, .siamRegistrationFrm li textarea{width: 162px;}
+.siamRegistrationFrm li select{width: 178px;}
+.siamRegistrationFrm li.stateOption select{width: 176px;}
+.siamRegistrationFrm li label{width: 118px;}
+
+
+.inner-header-banner .micrositeLeft{ height: 256px;}
+.inner-header-banner .micrositeLeft img{height: 183px;}
+.inner-header-banner .micrositeRight{padding:16px 10px 0 2px;}
+.headerLeftLink li{margin:0 0 17px; font-size:12px;}
+.headerLeftLink li a{border-left:2px solid #bb5a5a;padding:6px 3px 6px 2px;}
+.inner-header-banner .micrositeLeft h1 {font-size: 20px;line-height: 25px;}
+.overview h5.right{width: auto; float:left;}
+.innercontent-container .micrositeLeft{max-width:90%; padding:0 0 32px 19px}
+.inner-header-banner .download-btn{ position: relative;right: auto; margin: 60px 0 20px;}
+.siam_statistical_information .monthly_grid{overflow-x:scroll;}
+.siam_statistical_information ul.mgrid li{width: 219px;margin-right:4px; vertical-align:top;}
+.siam_statistical_information .monthly_grid .gridBody, .topheader{width:444px;}
+.siam_statistical_information ul.mgrid li.w154{width:131px;}
+.siam_statistical_information .monthly_grid li.chekList{width:64px;}
+.eventPayment{padding:15px;width:266px;}
+.eventPayment li{font-size:13px;}
+.eventPayment li span{width:95px;}
+
+
+/*5Aug 2015*/
+.events_registrationPg .magageProfile li label{width:100%; margin-bottom:4px;}
+.events_registrationPg .frmLeft .magageProfile .select-pointer{top: 28px; right:28px;}
+.search_box .paymentBox .radioOption{margin-top:30px; width:93%;}
+.events_registrationPg .magageProfile li input, .magageProfile li textarea{width:92%;}
+.events_registrationPg .set input[type="text"]{width:37px;}
+.events_registrationPg input.mobTxt[type="text"]{width:61%; margin-right:7px;}
+.events_registrationPg .magageProfile li select{width:95%;}
+.events_registrationPg .outerDivWidth{width:100%;}
+.events_registrationPg .magageProfile li{width:100%;}
+.events_registrationPg .magageProfile li.mobile label{width:100%;}
+.events_registrationPg .magageProfile li.mobile .countryCode{float:left;}
+.events_registrationPg li.mobile input.mobTxt[type="text"]{float:left;}
+.paymentBox .paymentUl li{width:100%; margin-bottom:20px;}
+.paymentUl li:nth-child(2) label::after{position:relative;}
+.paymentUl li:nth-child(1) label::after{position:relative;}
+}
+
+
+
+@media all and (min-width: 360px) and (max-width: 479px){
+.navigationPanel{display:none;}	
+.display{display:block;}
+.hide{display:none;}
+.main320{display:block;}
+.rightLinks ul{display:inline-block;}
+.caption-block .caption1{top:77%;}
+.rightLinks ul li:first-child{margin-right:0px; padding-left:0px;}
+.logo{width:181px;}
+.rightLinks ul li.usericon{background-position:0 9px;}
+.rightLinks ul{display:inline-block;}
+.rightLinks ul li.login{margin:0; float:none;}
+.rightLinks ul li.login a{background:none; padding:0px; color:#000; font-weight:600;}
+.navigationPanel .dropdownNav ul{display:none;}
+.dropdownNav{margin:0px; border:0px;}
+.headerCntr{max-width:327px; height:auto; margin:0 auto; padding-top:17px;}
+.menuCntr{max-width:327px;}
+.rightLinks{margin:15px 0 0; float:left; max-width:327px; border-top:1px solid #d0d0d0; padding-top:7px; text-align:center; width:100%;}
+/*padding:7px 9px 0;*/
+.rightLinks ul li{display:inline-block; float:none;}
+.rightLinks ul li.login{margin:0 -8px 2px 0;}
+.main320 a.right{top:50px; right:17px;}
+.navMenu{max-width:318px;}
+.dropdownNav ul li{padding:0 6px;}
+.dropdownNav ul li a{font-size:13px;}
+.acdmLft{left:-149px !important;}
+.bannerCntr{max-width:331px;}
+#bannermain{background-size: 100% 95%;}
+.banner-news-container .date{margin:-28px 0px 0; width:75px; line-height:27px;}
+.banner-news-container .news-content{margin:6px 4px 0; font-size:10px;}
+.bannerCntr .callbacks_nav{bottom:8%;}
+.bannerCntr .prev {right:-2px;}
+.rightLinks ul li.login a:hover{color:#000; background:none;}
+.bannerCntr .callbacks_nav.next{right:-13px;}
+.banner-news-container .registration-btn-container{right: -6px;top:-51px; width:125px; padding:0px; border-left:0px; position:absolute;}
+.banner-news-container .registration-btn-container .btn{font-size:12px;width:107px; line-height:25px;}
+.slider{max-width:326px; padding:0 4px;}
+/*.slides li{width:310px !important;}*/
+.content-container{margin:22px auto 60px;}
+.flexslider .flex-viewport{max-width:590px;}
+.content-container{max-width:329px;}
+.left-pnl{max-width:100%; margin-bottom:28px;}
+.content-container .hp-right-pnl{max-width:468px; margin:0px;}
+.hp-right-pnl p{width:264px;margin:0 auto;}
+.hp-right-pnl p:nth-child(2){padding-top:40px;}
+.hp-right-pnl p:nth-child(3){padding-top:46px;}
+.hp-right-pnl p:nth-child(2) img{height:80px;}
+.hp-right-pnl p:nth-child(3) img{height:66px;}
+.resp-tabs-container h2.resp-accordion{border-left:0px;border-right:0px;}
+.notification_table .view_registration .verticlgrid li{width: 93%;}
+.hp-right-pnl p img{/*width:158px;*/ height:auto; margin:0px;}
+.slider .flexslider .slides > li{padding:0 0 24px 60px;}
+.hp-cntr-Block h2{font-size:32px; line-height:36px; padding:0 0 31px;}
+.hp-cntr-Block h3{font-size:32px;}
+/*mid slider*/
+.hp-cntr-Block{margin:0px; max-width:329px; border-bottom:1px solid #ccc;padding-bottom:43px;}
+.hp-right-pnl{float: left;margin: 0 0 0 20px;max-width: 172px;}
+.hp-right-pnl img{max-width:100%;}
+.hp-cntr-Block .anythingSlider{max-width:329px;height:227px;}
+.hp-cntr-Block .anythingSlider .sliderWrapper{max-width:352px;height:227px;}
+.hp-cntr-Block .anythingSlider .sliderWrapper li{height:207px;}
+.anythingSlider .sliderWrapper ul li{max-width:329px;}
+.siam-mamber .bx-wrapper .bx-viewport{left: 43px;max-width: 237px;top:0px;}
+.textfield{width:213px; font-size:12px;}
+/*mid slider*/
+.footer-wrapper{max-width:330px;}
+/*.siam-mamber ul li{max-width:94px;}*/
+.footer-right{width:68%; left:59px; position:absolute; float:left;}
+.footer-left{width:100%; padding-left:0px;margin-top:60px; text-align:center;}
+.dropdownNav ul li.w1{width:63px;}
+.siam-mamber h2{padding:18px 0px;}
+.footerCntr{position:relative; height:275px;}
+.footer-left p br{display:block;}
+.footer-left p:nth-child(2){border-top:1px solid #ccc; padding:12px 0px;margin-top:11px;}
+.footerCntr .footer-wrapper{margin-bottom:0px;}
+.slider .flex-direction-nav a{top:36%;}
+.siam-mamber .bx-wrapper .bx-next{right: 10px;}
+.siam-mamber .bx-wrapper .bx-prev{left:8px;}
+.siam-mamber .bx-wrapper img{width:50px !important;}
+.highlighter, .sortingDiv{margin-bottom:20px; float:left;}
+.events li{margin-right:0px;margin-bottom:22px;padding-bottom:18px;width:329px;}
+.news_detail li{width:100%; margin:0px;}
+.news_detail .col12{width:100%;}
+.news_detail .col13{float: left;margin: 0 0 20px;width: 100%;}
+.news_detail .col13 img{width:100%; height:auto;}
+.contentRht{max-width:100%;}
+.media_grid li{width:154px; margin:10px 5px 9px;height:271px;}
+.print-ads li{height:220px;}
+.leftNav{max-width:100%; border-bottom:2px solid #00357d; margin-bottom:30px;}
+.head-left h1{font-size:22px;margin-bottom:2px;}
+.btn3{width:100%;}
+.press_detail li .download-btn{float: none;font-size: 17px;margin: 0 auto;width: 260px;}
+.gallery li{height:241px;}
+.gallerySorting{margin:15px 0 0;}
+.gallery2 li{height:179px;}
+.careerPg .col1{max-width:100%; margin-bottom:20px;}
+.careerPg .emissonpg{max-width:100%;}
+
+.frm li label{width:147px;}
+.calendarDetails .frm li label{width: 260px;}
+.frm li input, .frm li textarea{width:168px;}
+.career_join_now .frm li input[type="file"]{width: 172px;}
+.frm li select{width:179px;}
+.btnlink a{padding:5px 14px 8px; margin-right:13px;}
+.instruction{margin-right:0px;}
+.ex-year{width:85px; margin:0px; font-size:11px;}
+.frm li .ex-year select{width:56px; padding:0px;}
+.frm li .ex-year .select-pointer {right: 6px;}
+.ex-month{width:97px;font-size: 11px;}
+.frm li .ex-month select{width:63px; padding:0px;}
+address{margin-bottom:20px;}
+.reach_us .col2 iframe{width:100%;}
+.frm .captchaInput{ width:49%;margin-left: 0;margin-top: 9px;}
+
+.frmRight{max-width: 100%; float:left;}
+.frmLeft{max-width: 100%; float:left;}
+.magageProfile  li label{width:150px;}
+.frmLeft .magageProfile .select-pointer{right:7px;}
+.magageProfile li select{width:177px;}
+.magageProfile li input, .magageProfile li textarea{width:163px; font-size:13px;}
+.magageProfile .btnlink a{padding: 5px 13px 8px;}
+.newsletter_grid .first-col{ margin-right: 15px;width: 112px;}
+.newsletter_grid .second-col{padding-top: 2px;width: 61%;}
+.contentRht .row1 .col9{max-width:100%;}
+.row1 .col7{max-width:100%;}
+
+.publications_grid ul.mgrid li {max-width: 100px;text-align: center;vertical-align: middle;width: 100%;}
+.publications_grid ul.mgrid li.w184{width: 115px;}
+.publications_grid ul.mgrid li.w140{width: 109px;}
+.blueCntr{margin:12px 0 14px;}
+.topTxt{font-size:13px;}
+ul.mgrid li{max-width: 201px;}
+.monthly_grid .w248{max-width: 104px;}
+.regulatory_page .emissonpg{margin-bottom:20px;}
+.emissonpg img{height:auto;}
+.whiteBullet li{line-height: 1.3; background-position:left 5px;}
+.blueBox{max-width: 280px;padding: 20px 25px;}
+.accordion_table .automobile_grid .horrizontal_li .w200{width:60px; text-align:center;}
+.emmisions_normsPg .emissonpg .br63{height:30px;}
+.emmisions_normsPg .emissonpg .blue-box{padding:18px;}
+.sceond .accordion_table .automobile_grid .horrizontal_li .w200{width:59px;}
+.sceond  .segment_grid11, .sceond  .segment_grid1{overflow-x:scroll;}
+.sceond  .segment_grid1 .automobile_grid, .sceond  .segment_grid11 .automobile_grid{width:450px;}
+.vehicle ul.mgrid li{max-width:122px;}
+.vehicle ul.mgrid li.w184 {width:78px;}
+.vehicle ul.mgrid li.w140 {width:90px;}
+.vehicle .diesel_vehicles .monthly_grid .w248{max-width: 138px;}
+.vehicle .diesel_vehicles ul.mgrid li.w248{max-width: 101px;}
+.vehicle .diesel_vehicles ul.mgrid li.w184{width: 67px;}
+.lambda .row12{width:99%;}
+.lambda .box9ca36f{max-width:88%;}
+.lambda .box3{max-width:79%; margin-bottom:20px;}
+.lambda .scenario ul.mgrid li{max-width: 89px;padding-left: 12px;}
+.lambda .box5{max-width:88%; margin-bottom:20px;}
+.lambda .vehicle_type ul.mgrid li.w280{max-width: 124px;}
+.lambda .vehicle_type ul.mgrid li{max-width: 80px;}
+.harmonization .box3{max-width: 90%;}
+.notification .view_registration .grid li.w88{width: 52px;}
+.notification .view_registration ul.grid li.w250{width:74px;}
+.notification .view_registration ul.grid li.w157 {margin-left: 6px;width: 172px;}
+.notification .view_registration ul.grid li{display: inline-block;}
+.who_we_are .divAuto .box{max-width:94%;}
+.president_member_details{ width: 330px;height: 124px;margin-bottom: 30px;}
+.memeber-img{height: 121px;width: 109px;}
+.memeber-detail{height: 93px;padding:15px 12px;width: 191px; background-size:100%;}
+.memeber-detail h2{margin-bottom: 12px; font-size:18px;}
+.president_membergrid li{margin-right: 13px;width: 155px;}
+.frm li .ex-month .select-pointer {right: 3px;}
+.vatPage .monthly_grid ul.mgrid li {max-width: 152px;}
+.budget_memorandum .box10{margin-bottom: 20px; max-width:83%;}
+.budget_memorandum .greenBox{max-width:92%;padding: 13px; margin-right:8px;}
+.budget_memorandum .col2{max-width: 100%;}
+.domestic_marketShare .capacity li ul li.topRow{font-size:18px;}
+
+.memeberSearchd li{margin-right: 13px;width: 156px;}
+.memeberSearchd li .eventYear{width: 152px;}
+.memeberSearchd li select{width: 100%;}
+.memeberSearchd li.btnlink{right:34px;}
+.memeberSearchd li input{width: 93%;}
+.memebersGrid3 ul.grid li{display: table-cell;}
+.members_list .memebersGrid3 ul.grid li.w157{width:192px; text-align:left !important;}
+.members_list .memebersGrid3 ul.grid li.w95{width:95px;}
+.memebersGrid3 ul.grid li.w88{width: 47px;}
+
+.search_box .search2 li{margin-right: 12px; width:99px;}
+.search_box .search2 li.btnlink{left: 0px;right: 0;top: 9px;}
+.members_list .claendarM ul.grid li.w250{width: 117px;padding-right: 14px;}
+.members_list .claendarM ul.grid li.w95{width: 65px;}
+.members_list .claendarM ul.grid li.w85 {width: 85px;}
+.members_list .claendarM ul.grid li{display: inline-table;}
+.members_list .claendarM ul.grid li.w95{width:38px;}
+.members_list .claendarM ul.grid li.w88{width:41px;}
+
+members_list .circularPAge ul.grid li.w250{width: 184px;}
+.members_list .circularPAge ul.grid li.w88{width: 42px;}
+.members_list .circularPAge ul.grid li.w250{margin-left: 11px;margin-right: 0;   text-align: left;width: 147px;}
+.members_list .circularPAge ul.grid li.w95{width: 41px;}
+.members_list .circularPAge ul.grid li.w157{width: 85px;text-align: center !important;}
+.members_list .circularPAge ul.grid li{display: inline-block;}
+.circularPAge .gridBody, .circularPAge .topheader{width: 450px;}
+.circularPAge{overflow-x:scroll;}
+
+.circular_details .frm li label{width:188px;}
+.members_list .circularDetailPage ul.grid li.w250{margin-right: 10px;width: 205px;}
+.members_list .circularDetailPage ul.grid li.w88{width: 46px;}
+.members_list .circularDetailPage ul.grid li.w95{width: 38px;}
+.members_list .circularDetailPage ul.grid li{display:inline-flex;}
+.memberDetailPage .magageProfile li.memberLogo{width: 102px;}
+.memberDetailPage .magageProfile li.memberLogo label{width: 104px;}
+.documentPg .search2 li.btnlink{top:0px;}
+.search2 li .eventYear {width: 97px;}
+.search2 li select {width: 100%;}
+.siamRegistrationFrm li{margin-right: 0;width:100%;}
+.siamRegistrationFrm li .select-pointer{right:10px;}
+.siamRegistrationFrm li.stateOption .select-pointer{right:12px;}
+.siamRegistrationFrm li.btnlink a{margin-right: 5px; padding:6px 16px 7px;font-size: 13px;}
+.siamRegistrationFrm li input, .siamRegistrationFrm li textarea{width: 158px;}
+.siamRegistrationFrm li select{width: 172px;}
+.siamRegistrationFrm li.stateOption select{width: 172px;}
+.siamRegistrationFrm li label{width: 157px;}
+
+.inner-header-banner .micrositeLeft{ height: 256px;}
+.inner-header-banner .micrositeLeft img{height: 209px;}
+.inner-header-banner .micrositeRight{padding:16px 10px 0 2px;}
+.headerLeftLink li{margin:0 0 17px; font-size:13px;}
+.headerLeftLink li a{border-left: 3px solid #bb5a5a;padding:6px 4px 6px 6px;}
+.inner-header-banner .micrositeLeft h1 {font-size: 20px;line-height: 25px;}
+.overview h5.right{width: auto; float:left;}
+.innercontent-container .micrositeLeft{max-width:90%; padding:0 0 32px 19px}
+.inner-header-banner .download-btn{ position: relative;right: auto; margin: 60px 0 20px;}
+
+
+.siam_statistical_information .monthly_grid{overflow-x:scroll;}
+.siam_statistical_information ul.mgrid li{width: 219px;margin-right:4px; vertical-align:top;}
+.siam_statistical_information .monthly_grid .gridBody, .topheader{width:444px;}
+.siam_statistical_information ul.mgrid li.w154{width:131px;}
+.siam_statistical_information .monthly_grid li.chekList{width:64px;}
+.eventPayment{padding:15px;width:300px;}
+.eventPayment li{font-size:13px;}
+.eventPayment li span{width:100px;}
+
+
+/*5Aug 2015*/
+.events_registrationPg .magageProfile li label{width:100%; margin-bottom:4px;}
+.events_registrationPg .frmLeft .magageProfile .select-pointer{top: 28px; right:28px;}
+.search_box .paymentBox .radioOption{margin-top:30px; width:93%;}
+.events_registrationPg .magageProfile li input, .magageProfile li textarea{width:92%;}
+.events_registrationPg .set input[type="text"]{width:37px;}
+.events_registrationPg input.mobTxt[type="text"]{width:61%; margin-right:7px;}
+.events_registrationPg .magageProfile li select{width:95%;}
+.events_registrationPg .outerDivWidth{width:100%;}
+.events_registrationPg .magageProfile li{width:100%;}
+.events_registrationPg .magageProfile li.mobile label{width:100%;}
+.events_registrationPg .magageProfile li.mobile .countryCode{float:left;}
+.events_registrationPg li.mobile input.mobTxt[type="text"]{float:left;}
+.paymentBox .paymentUl li{width:100%; margin-bottom:20px;}
+.paymentUl li:nth-child(2) label::after{position:relative;}
+.paymentUl li:nth-child(1) label::after{position:relative;}
+
+}
+ /*for pop css*/
+@media all and (max-width: 360px){
+.events_registrationPg .magageProfile li label{width: 117px;}
+.calendarDetails .frm li label{width:auto;}
+.career_join_now .comitteeDetailsPop li label{width: 109px;}
+.career_join_now .comitteeDetailsPop li label:first-child{width:100px;}
+}
+@media all and (min-width: 360px) and (max-width: 450px){
+.career_join_now .comitteeDetailsPop li label{width: 227px;}
+}
+
+/*for pop css*/
+
+@media (min-width: 480px) and (max-width: 639px) {
+.navigationPanel{display:none;}	
+.display{display:block;}
+.hide{display:none;}
+.main320{display:block;}
+.logo{width:181px;}
+.navigationPanel .dropdownNav ul{display:none;}
+.dropdownNav{margin:11px 0 0;}
+.headerCntr{max-width:468px; height:48px; margin:0 auto; padding-top:25px;}
+.menuCntr{max-width:468px;}
+.rightLinks{margin:12px 3px 0 0; float:right;max-width: 245px;width: 100%;}
+.rightLinks ul li.usericon{margin-left:-33px;}
+.rightLinks ul li.login{padding:0; margin:0; float:none; position:relative; top:2px;}
+.rightLinks ul li{padding:2px 5px;}
+.rightLinks ul li.login a{background:none; padding:0px; color:#000;margin-left:5px;font-weight:600;}
+.rightLinks ul li.login a:hover{ color:#000; padding:0px; background:none;}
+.main320 a.right{top:15px; right:12px;}
+.dropdownNav ul li{padding:0 6px;}
+.dropdownNav ul li a{font-size:13px;}
+.acdmLft{left:-149px !important;}
+.bannerCntr{max-width:468px;}
+#bannermain{background-size: 100% 95%;}
+.banner-news-container .date{margin:6px 4px 0 0; width:75px; line-height:19px;}
+.banner-news-container .news-content{margin:10px 0 0; font-size:10px;}
+.bannerCntr .callbacks_nav{bottom:3%;}
+.bannerCntr .prev {right:-2px;}
+.bannerCntr .callbacks_nav.next{right:-13px;}
+.banner-news-container .registration-btn-container{margin:-29px 11px 0; width:125px; padding:0px; border-left:0px;}
+.banner-news-container .registration-btn-container .btn{font-size:12px;width:107px; line-height:25px; position: absolute;right: 12px;top:-30px;}
+.slider{max-width:438px;}
+/*.slides li{width:182px !important;}*/
+.content-container{margin:22px auto 60px;}
+.flexslider .flex-viewport{max-width:580px;}
+.slider .flex-direction-nav .flex-next{right:-6px;}
+.slider .flexslider:hover .flex-next{right:-8px;}
+.slider .flex-direction-nav .flex-prev{left:-8px;}
+.slider .flexslider:hover .flex-prev{left:-8px;}
+.content-container{max-width:468px;}
+.left-pnl{max-width:100%; margin-bottom:13px;}
+.content-container .hp-right-pnl{max-width:468px; margin:0px;}
+.hp-right-pnl p{float:left; width:146px;padding-right:10px;}
+.hp-right-pnl p:nth-child(2){padding-top:40px;}
+.hp-right-pnl p:nth-child(3){padding-top:46px;}
+.hp-right-pnl p:nth-child(2) img{height:45px;}
+.hp-right-pnl p:nth-child(3) img{height:45px;}
+
+.hp-right-pnl p img{width:158px; height:auto; margin:0px;}
+/*mid slider*/
+.hp-cntr-Block{margin:0px; max-width:100%;}
+.hp-right-pnl{float: left;margin: 0 0 0 20px;max-width: 172px;}
+.hp-right-pnl img{max-width:100%;}
+.hp-cntr-Block .anythingSlider{max-width:459px;height:200px;}
+.hp-cntr-Block .anythingSlider .sliderWrapper{max-width:459px;height:200px;}
+.anythingSlider .sliderWrapper ul li{max-width:459px;}
+.siam-mamber .bx-wrapper .bx-viewport{left: 45px;max-width: 388px;}
+.textfield{width:184px; font-size:10px;}
+/*mid slider*/
+.footer-wrapper{max-width:629px;}
+/*.siam-mamber ul li{max-width:94px;}*/
+.footer-right{width:45.5%;}
+.footer-left{width:49%; padding-left:9px;}
+.dropdownNav ul li.w1{width:63px;}
+.siam-mamber h2{padding:25px 11px;}
+.siam-mamber .bx-wrapper .bx-next{right: 10px;}
+.siam-mamber .bx-wrapper .bx-prev{left:8px;}
+.siam-mamber .bx-wrapper img{width:84px !important;}
+.btn3{width:46%;}
+.events li{height: 400px;margin-right: 27px;padding-bottom: 13px;width: 218px;}
+.highlighter, .sortingDiv{margin-bottom:20px; float:left;}
+.news_detail li{width:100%; margin:0px;}
+.news_detail .col12{width:100%;}
+.news_detail .col13{float: left;margin: 0 0 20px;width: 100%;}
+.news_detail .col13 img{width:100%; height:auto;}
+.contentRht{max-width:100%;}
+.media_grid li{width:151px; margin:10px 2px 9px;height:271px;}
+.print-ads li{height:220px;}
+.leftNav{max-width:100%; border-bottom:2px solid #00357d; margin-bottom:30px;}
+.gallery li{height:241px;}
+.gallerySorting{margin:15px 0 0;}
+.careerPg .col1{max-width:100%; margin-bottom:20px;}
+.careerPg .emissonpg{max-width:100%;}
+.frm li label{width:217px;}
+.frm li input, .frm li textarea{width:230px;}
+.frm li select{width:244px;}
+.btnlink a{padding:5px 16px 8px;}
+.instruction{margin-right:0px;}
+.ex-year{width:118px;}
+.frm li .ex-year select{width:81px;}
+.ex-month{width:120px;}
+.frm li .ex-month select{width:78px;}
+address{margin-bottom:20px;}
+.reach_us .col2 iframe{width:100%;}
+.frm .captchaInput{width:74px;}
+.frmRight{max-width: 397px; float:left;}
+.magageProfile  li label{width:150px;}
+.frmLeft .magageProfile .select-pointer{right:7px;}
+.magageProfile li select{width:247px;}
+.magageProfile li input, .magageProfile li textarea{width:233px;}
+.newsletter_grid .second-col{width:69%;padding-top:12px;}
+ul.mgrid li{max-width:220px;}
+.monthly_grid .w248{max-width: 141px;}
+.contentRht .row1 .col9{max-width:100%;}
+.row1 .col7{max-width:100%;}
+.harmonization .box3{max-width: 93%;}
+.publications_grid ul.mgrid li{max-width: 190px;vertical-align: middle;}
+.publications_grid ul.mgrid li.w184{width: 115px;}
+.publications_grid ul.mgrid li.w140{width: 109px;}
+.head-left h1{font-size:30px;}
+.blueCntr{margin:13px 0 6px;}
+.topTxt{font-size:16px;}
+.caption-block .caption1{height:auto; padding-bottom:8px;}
+.regulatory_page .divAuto .emissonpg{margin-bottom:20px;}
+.regulatory_page .divAuto .emissonpg img{height:auto;}
+.regulatory_page .col1{max-width: 100%;}
+.regulatory_page .blueBox{max-width:91%;padding:19px 21px;}
+.whiteBullet li{line-height: 1.1;}
+.emmisions_normsPg .col1{max-width:100%;}
+.emmisions_normsPg .emissonpg{max-width:100%;}
+.accordion_table .automobile_grid .horrizontal_li .w200{width: 88px; text-align:center;}
+.emmisions_normsPg .emissonpg .br63{height:30px;}
+.emmisions_normsPg .emissonpg .blue-box{padding: 18px;}
+.sceond .accordion_table .automobile_grid .horrizontal_li .w200{width:62px;}
+.vehicle .diesel_vehicles .monthly_grid .w248{max-width: 187px;}
+.vehicle ul.mgrid li{max-width: 172px;}
+.lambda .row12{width:99%;}
+.lambda .box9ca36f{max-width:91%;}
+.lambda .box3{max-width:85%; margin-bottom:20px;}
+.lambda .scenario ul.mgrid li{max-width: 131px;padding-left: 17px;}
+.lambda .box5{max-width:91%; margin-bottom:20px;}
+.lambda .vehicle_type ul.mgrid li.w280{max-width: 183px;}
+.lambda .vehicle_type ul.mgrid li{max-width: 130px;}
+.notification .view_registration .grid li.w88{width:53px;}
+.notification .view_registration ul.grid li.w250{width:117px;}
+.notification .view_registration ul.grid li{display:table-cell;}
+.notification .view_registration ul.grid li.w157{margin-left: 9px;width: 264px;}
+.notification .view_registration ul.grid li{display: inline-block;}
+.who_we_are .divAuto .box{max-width: 95%;}
+
+.president_member_details{ width: 467px;height: 159px;margin-bottom: 39px;}
+.memeber-img{height: 163px;width: 149px;}
+.memeber-detail{height: 130px;padding: 19px 14px;width:267px;background-size:100%;}
+.memeber-detail h2{margin-bottom: 27px;}
+.president_membergrid li{margin-right:14px;width: 143px;}
+.partnerPg .col1, .partnerPg .emissonpg{max-width: 230px;}
+.vatPage .monthly_grid ul.mgrid li{max-width: 222px;}
+
+.budget_memorandum .box10{margin-bottom: 20px; max-width:88%;}
+.budget_memorandum .greenBox{max-width: 94%;padding: 13px; margin-right:8px;}
+.budget_memorandum .col2{max-width: 100%;}
+
+.memeberSearchd li{margin-right: 59px;width: 191px;}
+.memeberSearchd li .eventYear{width: 188px;}
+.memeberSearchd li select{width: 100%;}
+.memeberSearchd li.btnlink{right:70px;}
+.memeberSearchd li input{width: 93%;}
+.memebersGrid3 ul.grid li{display: table-cell;}
+.members_list .memebersGrid3 ul.grid li.w157{width:192px; text-align:left !important;}
+.members_list .memebersGrid3 ul.grid li.w95{width:95px;}
+.memebersGrid3 ul.grid li.w88{width: 47px;}
+
+.search_box .search2 li{margin-right: 18px; width:138px;}
+.search_box .search2 li.btnlink{left: 13px;right: 0;top: 9px;}
+.members_list .claendarM ul.grid li.w250{width: 173px;}
+.members_list .claendarM ul.grid li.w95{width: 65px;}
+.members_list .claendarM ul.grid li.w85 {width: 85px;}
+.members_list .claendarM ul.grid li{display: inline-table;}
+.members_list .claendarM ul.grid li.w95{width:65px;}
+
+members_list .circularPAge ul.grid li.w250{width: 184px;}
+.members_list .circularPAge ul.grid li.w88{width: 42px;}
+.members_list .circularPAge ul.grid li.w250{margin-left: 11px;margin-right: 0;   text-align: left;width: 147px;}
+.members_list .circularPAge ul.grid li.w95{width: 65px;}
+.members_list .circularPAge ul.grid li.w157{width: 85px;text-align: center !important;}
+.members_list .circularPAge ul.grid li{display: inline-block;}
+
+.circular_details .frm li label{width:324px;}
+.members_list .circularDetailPage ul.grid li.w250{width: 298px;}
+.members_list .circularDetailPage ul.grid li.w88{width: 46px;}
+.members_list .circularDetailPage ul.grid li.w95{width: 65px;}
+.members_list .circularDetailPage ul.grid li{display: inline-table;}
+.memberDetailPage .magageProfile li.memberLogo{width: 102px;}
+.memberDetailPage .magageProfile li.memberLogo label{width: 104px;}
+.documentPg .search2 li.btnlink{top:0px;}
+.search2 li .eventYear {width: 135px;}
+.search2 li select {width: 100%;}
+
+.siamRegistrationFrm li{margin-right: 0;width:82%;}
+.siamRegistrationFrm li .select-pointer{right:5px;}
+.siamRegistrationFrm li.btnlink a{margin-right: 5px; padding:6px 16px 7px;font-size: 13px;}
+.siamRegistrationFrm li input, .siamRegistrationFrm li textarea{width: 222px;}
+.siamRegistrationFrm li select{width: 234px;}
+.siamRegistrationFrm li.stateOption select{width: 235px;}
+.siamRegistrationFrm li label{width: 157px;}
+
+
+.inner-header-banner .micrositeLeft{ height: 302px;}
+.inner-header-banner .micrositeLeft img{height: 242px;}
+.inner-header-banner .micrositeRight{padding:9px 10px 10px 2px;}
+.headerLeftLink li a{border-left: 3px solid #bb5a5a;padding: 6px;}
+.inner-header-banner .micrositeLeft h1 {font-size: 23px;}
+.overview h5.right{width: 243px;}
+.innercontent-container .micrositeLeft{max-width: 97%;}
+.inner-header-banner .download-btn{ position: relative;right: auto; margin:50px 0 20px;}
+
+.siam_statistical_information ul.mgrid li{width: 219px;margin-right:4px; vertical-align:top;}
+.siam_statistical_information ul.mgrid li.w154{width:131px;}
+.siam_statistical_information .monthly_grid li.chekList{width:64px;}
+
+
+/*5Aug 2015*/
+.events_registrationPg .magageProfile li label{width:100%;}
+.events_registrationPg .frmLeft .magageProfile .select-pointer{top: 24px; right:28px;}
+.search_box .paymentBox .radioOption{margin-top:30px;}
+.events_registrationPg .magageProfile li input, .magageProfile li textarea{width:92%;}
+.events_registrationPg .set input[type="text"]{width:37px;}
+.events_registrationPg input.mobTxt[type="text"]{width:107px; margin-right:7px;}
+.events_registrationPg .magageProfile li select{width:92%;}
+.events_registrationPg .outerDivWidth{width:100%;}
+
+}
+
+
+@media all and (min-width: 640px) and (max-width: 767px){
+.navigationPanel{display:none;}	
+.display{display:block;}
+.hide{display:none;}
+.main320{display:block;}
+.logo{width:185px;}
+.navigationPanel .dropdownNav ul{display:none;}
+.dropdownNav{margin:11px 0 0;}
+.headerCntr{max-width:629px; height:48px; margin:0 auto; padding-top:25px;}
+.menuCntr{max-width:629px;}
+.rightLinks{margin:18px 0 0; float:right;}
+.rightLinks ul li.login a{padding:4px 13px 6px;}
+.rightLinks ul li{padding:0 3px;}
+.main320 a.right{ right: 9px;top: 9px;}
+.dropdownNav ul li{padding:0 6px;}
+.dropdownNav ul li a{font-size:13px;}
+.acdmLft{left:-149px !important;}
+.bannerCntr{max-width:629px;}
+#bannermain{background-size: 100% 95%;}
+.banner-news-container .date{margin:7px 12px 0 0;}
+.banner-news-container .news-content{margin:13px 0 0; font-size:13px;}
+.bannerCntr .callbacks_nav{bottom:4%;}
+.banner-news-container .registration-btn-container{margin:-35px 9px 0; width:125px; padding:0px; border-left:0px;}
+.banner-news-container .registration-btn-container .btn{font-size:12px;width:111px;}
+.frm .captchaInput{ width: 73px;}
+.slider{max-width:597px;}
+.flexslider .flex-viewport{max-width:590px;}
+.content-container{max-width:626px;}
+.left-pnl{max-width:257px;}
+.content-container .hp-right-pnl{max-width:603px;}
+.hp-right-pnl p{float:left; width:181px;padding-right:20px;}
+.hp-right-pnl p:nth-child(2){padding-top:40px;}
+.hp-right-pnl p:nth-child(3){padding-top:46px;}
+.hp-right-pnl p img{width:172px; height:auto; margin:0px;}
+/*mid slider*/
+.hp-cntr-Block{margin:0 0 0 16px; max-width:353px;}
+.hp-right-pnl{float: left;margin: 0 0 0 20px;max-width: 172px;}
+.hp-right-pnl img{max-width:100%;}
+.hp-cntr-Block .anythingSlider{max-width:352px;height:231px; margin:0 auto 32px;}
+.hp-cntr-Block .anythingSlider .sliderWrapper{max-width:352px;height:231px;}
+.hp-cntr-Block  .anythingSlider .sliderWrapper ul li{max-width:352px; height:231px;}
+.siam-mamber .bx-wrapper .bx-viewport{left: 45px;max-width: 540px;}
+/*mid slider*/
+.footer-wrapper{max-width:629px;}
+/*.siam-mamber ul li{max-width:94px;}*/
+.footer-right{width:44.6%;}
+.footer-left{width:49%;}
+.dropdownNav ul li.w1{width:63px;}
+.siam-mamber .bx-wrapper .bx-next{right: 10px;}
+.siam-mamber .bx-wrapper .bx-prev{left:4px;}
+.events li{width:303px;height:356px;margin-right:17px; padding-bottom:22px;}
+.news_detail li{width:100%; margin:0px;}
+.news_detail .col12{width:100%;}
+.news_detail .col13{float: left;margin: 0 0 20px;width: 100%;}
+.news_detail .col13 img{width:100%; height:auto;}
+.contentRht{max-width:394px;}
+.media_grid li{width:176px; margin:10px 13px 9px; height:271px;}
+.print-ads li{height:220px;}
+.leftNav{max-width:225px;}
+.gallery li{height:241px;}
+.gallery2 li{height:191px;}
+.careerPg .col1{max-width:100%; margin-bottom:20px;}
+.careerPg .emissonpg{max-width:100%;}
+.frm li label{width:148px;}
+.frm li input, .frm li textarea{width:230px;}
+.frm li select{width:244px;}
+.btnlink a{padding:5px 16px 8px;}
+.instruction{margin-right:0px;}
+.ex-year{width:118px;}
+.frm li .ex-year select{width:81px;}
+.ex-month{width:120px;}
+.frm li .ex-month select{width:78px;}
+address{margin-bottom:20px;}
+.reach_us .col2 iframe{width:100%;}
+
+.frmRight{max-width: 394px;}
+.magageProfile  li label{width:150px;}
+.frmLeft .magageProfile .select-pointer{right:7px;}
+.newsletter_grid .second-col{width:63%; padding-top:1px;}
+
+ul.mgrid li{max-width:220px;}
+.monthly_grid .w248{max-width: 141px;}
+.contentRht .row1 .col9{max-width:100%;}
+.row1 .col7{max-width:100%;}
+.publications_grid ul.mgrid li{max-width: 143px;vertical-align: middle;}
+.publications_grid ul.mgrid li.w184{width: 115px;}
+.publications_grid ul.mgrid li.w140{width: 109px;}
+
+.blueCntr{margin:11px 0 5px;}
+.topTxt{font-size:16px;}
+.caption-block .caption1{height:auto;padding-bottom:8px;}
+.regulatory_page .divAuto .col1{max-width:100%;}
+.regulatory_page .divAuto .emissonpg{float: none;margin-bottom:20px;
+    max-width: 339px;}
+.regulatory_page .divAuto .emissonpg img{height:auto;}
+.regulatory_page .col1{max-width: 100%;}
+.regulatory_page .blueBox{max-width:89%;padding:19px 21px;}
+.whiteBullet li{line-height: 1.1;}
+.emmisions_normsPg .col1{max-width:100%;}
+.emmisions_normsPg .emissonpg{max-width:100%;}
+.accordion_table .automobile_grid .horrizontal_li .w200{width: 74px; text-align:center;}
+.emmisions_normsPg .emissonpg .br63{height:30px;}
+.emmisions_normsPg .emissonpg .blue-box{padding: 18px;}
+.sceond .accordion_table .automobile_grid .horrizontal_li .w200{width:52px;}
+.vehicle .diesel_vehicles .monthly_grid .w248{max-width: 187px;}
+.publications_grid ul.mgrid li{max-width: 120px;}
+
+.lambda .box3{max-width:88%;padding:19px 24px 17px; margin-bottom:20px;}
+.lambda .row12 .col1{max-width: 338px; float:none; margin: 0 auto;}
+.lambda .row12 .box9ca36f{max-width: 94%;padding: 13px;}
+.lambda .scenario ul.mgrid li{max-width: 110px;padding-left: 12px;}
+.lambda .divAuto .box5{max-width: 94%;padding: 14px; margin-bottom:20px;}
+.lambda .vehicle_type ul.mgrid li.w280{max-width: 144px;}
+.lambda .vehicle_type ul.mgrid li{max-width: 91px;padding-left: 12px;}
+.notification .view_registration ul.grid li.w157{display: inline-table;margin-left: 9px;width: 191px;}
+.notification .view_registration .grid li.w88{width:53px;}
+.notification .view_registration ul.grid li.w250{width:117px;}
+.notification .view_registration ul.grid li{display:inline-block;}
+.who_we_are .divAuto .box{max-width: 95%;}
+
+.president_member_details{ width: 395px;height: 159px;margin-bottom: 39px;}
+.memeber-img{height: 145px;width: 132px;}
+.memeber-detail{height: 107px;padding: 19px 14px;width: 223px; background-size:100%;}
+.memeber-detail h2{margin-bottom: 5px;}
+.president_membergrid li{margin-right:30px;}
+.vatPage .monthly_grid ul.mgrid li{max-width: 181px;}
+
+.budget_memorandum .box10{margin-bottom: 20px; max-width:86%;}
+.budget_memorandum .greenBox{max-width: 93%;padding: 13px; margin-right:8px;}
+.budget_memorandum .col2{max-width: 100%;}
+.head-left h1{font-size: 32px;}
+
+.memeberSearchd li{margin-right: 8px;width: 191px;}
+.memeberSearchd li .eventYear{width: 188px;}
+.memeberSearchd li select{width: 100%;}
+.memeberSearchd li.btnlink{right:39px;}
+.memebersGrid3 ul.grid li{display: table-cell;}
+.members_list .memebersGrid3 ul.grid li.w157{width:192px; text-align:left !important;}
+.members_list .memebersGrid3 ul.grid li.w95{width:95px;}
+.memebersGrid3 ul.grid li.w88{width: 47px;}
+
+.search_box .search2 li{margin-right: 18px; width:117px;}
+.search_box .search2 li.btnlink{left: 13px;right: 0;top: 9px;}
+.members_list .claendarM ul.grid li.w250{width: 106px;}
+.members_list .claendarM ul.grid li.w95{width: 65px;}
+.members_list .claendarM ul.grid li.w85 {width: 85px;}
+.members_list .claendarM ul.grid li{display: inline-table;}
+.members_list .claendarM ul.grid li.w95{width:65px;}
+
+.members_list .circularPAge ul.grid li.w250{width: 184px;}
+.members_list .circularPAge ul.grid li.w88{width: 42px;}
+.members_list .circularPAge ul.grid li.w250{margin-left: 11px;margin-right: 0;   text-align: left;width: 113px;}
+.members_list .circularPAge ul.grid li.w95{width: 65px;}
+.members_list .circularPAge ul.grid li.w157{width: 65px;text-align: center !important;}
+.members_list .circularPAge ul.grid li{display: inline-block;}
+.circular_details .frm li label{width:252px;}
+.members_list .circularDetailPage ul.grid li.w250{width: 232px;}
+.members_list .circularDetailPage ul.grid li.w88{width: 46px;}
+.members_list .circularDetailPage ul.grid li.w95{width: 65px;}
+.members_list .circularDetailPage ul.grid li{display: inline-table;}
+.memberDetailPage .magageProfile li.memberLogo{width: 102px;}
+.memberDetailPage .magageProfile li.memberLogo label{width: 104px;}
+.documentPg .search2 li.btnlink{top:0px;}
+.search2 li .eventYear {width: 114px;}
+.search2 li select {width: 100%;}
+
+.siamRegistrationFrm li{margin-right: 0;width: 97%;}
+.siamRegistrationFrm li .select-pointer{right:5px;}
+.siamRegistrationFrm li.btnlink a{margin-right: 5px; padding:6px 16px 7px;font-size: 13px;}
+.siamRegistrationFrm li input, .siamRegistrationFrm li textarea{width: 222px;}
+.siamRegistrationFrm li select{width: 233px;}
+.siamRegistrationFrm li.stateOption select{width: 234px;}
+.siamRegistrationFrm li label{width: 157px;}
+
+.siam_statistical_information ul.mgrid li{width: 155px;margin-right:4px; vertical-align:top;}
+.siam_statistical_information ul.mgrid li.w154{width:131px;}
+.siam_statistical_information .monthly_grid li.chekList{width:64px;}
+
+
+/*5Aug 2015*/
+.events_registrationPg .magageProfile li label{width:100%;}
+.events_registrationPg .frmLeft .magageProfile .select-pointer{top: 24px;}
+.search_box .paymentBox .radioOption{margin-top:30px;}
+.events_registrationPg .magageProfile li{width:46.6%;}
+.events_registrationPg .addForm2 li{width:100%;}
+
+
+
+}
+
+@media all and (min-width:981px) and (max-width:1024px){
+.headerCntr{max-width:1004px;}
+.menuCntr{max-width:1004px;}
+.rightLinks{margin:26px 0 0;}
+.dropdownNav ul li{padding:0 12px;}
+.dropdownNav ul li a{font-size:16px;}
+.acdmLft{left:-110px !important;}
+.bannerCntr{max-width:1004px;}
+#bannermain{background-size: 100% 95%;}
+.banner-news-container .date{margin:18px 30px 0 0;}
+.banner-news-container .news-content{margin:24px 0 0; font-size:16px;}
+.banner-news-container .registration-btn-container{margin:9px 60px 0 0;}
+.slider{max-width:980px;}
+.flexslider .flex-viewport{max-width:960px;}
+.content-container{max-width:1004px;}
+.left-pnl{max-width:295px;}
+/*mid slider*/
+.hp-cntr-Block{margin:0 0 0 26px; max-width:363px;}
+.hp-right-pnl{float: left;margin: 0 0 0 20px;max-width: 291px;}
+.hp-right-pnl img{max-width:100%;}
+.hp-cntr-Block .anythingSlider{max-width:363px;}
+.hp-cntr-Block .anythingSlider .sliderWrapper{max-width:363px;height:238px;}
+.hp-cntr-Block .anythingSlider{height:238px;}
+.anythingSlider .sliderWrapper ul li{max-width:363px;}
+/*mid slider*/
+.footer-wrapper{max-width:1004px;}
+/*.siam-mamber ul li{max-width:124.7px;}*/
+.footer-right{width:28.3%;}
+
+.navigation ul li{padding:0 9.1px 2px;}
+.navigation ul li.active{background-position:13px 45px;}
+.navigation ul li a{font-size:16px;}
+.navigation ul ul{margin-left:-9px;}
+.siam-mamber .bx-wrapper .bx-next{right: 10px;}
+.siam-mamber .bx-wrapper .bx-prev{left:4px;}
+.footer-left{width:50%;}
+.events li{width:343px; height:336px;padding-bottom:8px; margin-right:11px;}
+.news_detail li{width:99%;}
+.news_detail .col12{width:585px;}
+.news_detail .col13{width:407px; margin:0;}
+.news_detail .col13 img{width:100%; height:auto;}
+
+.contentRht{max-width:726px;}
+.media_grid li{width:218px; margin:10px 13px 9px;height:295px;}
+.print-ads li{height:220px;}
+.careerPg .col1{max-width:369px;}
+.careerPg .emissonpg{max-width:352px;}
+.reach_us .col1{max-width:365px;}
+.reach_us .col2{max-width:354px;}
+.reach_us .col2 iframe{width:100%;}
+
+.magageProfile li label{width: 158px;}
+.magageProfile li input, .magageProfile li textarea{width: 170px;}
+.magageProfile li select{width: 183px;}
+.gridBox .frmLeft{max-width: 357px;}
+.gridBox .frmRight{max-width: 342px;}
+.newsletter_grid .second-col{width:80%;}
+
+.members_list .companyInfo ul.grid li.w250{margin-right: 8px;width:118px;}
+.members_list .companyInfo ul.grid li.w250{width:156px;}
+.companyInfo ul.grid li.w236{width:159px;}
+.view_registration ul.grid li.w157{width:134px;}
+ul.mgrid li{max-width: 420px;}
+
+.regulatory_page .divAuto .col1{max-width:387px;}
+.regulatory_page .divAuto .emissonpg{max-width:339px;}
+.regulatory_page .divAuto .emissonpg img{height:auto;}
+.regulatory_page .col1{max-width: 369px;}
+.regulatory_page .blueBox{max-width: 332px;padding: 19px 12px;}
+.emmisions_normsPg .col1{max-width:360px;}
+.emmisions_normsPg .emissonpg{max-width:360px;}
+.accordion_table .automobile_grid .horrizontal_li .w200{width: 100px; text-align:center;}
+.safety_regulation .divAuto .col1{max-width:379px;}
+.safety_regulation .divAuto .emissonpg{max-width:339px;}
+.safety_regulation .divAuto .emissonpg img{height:auto;}
+.safety_regulation .notification_table .view_registration ul.grid li.w88{width:47px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w151{width: 125px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w95{width: 110px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w250{ width: 234px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w157{width: 171px;}
+.diesel_vehicles ul.mgrid li{max-width: 337px;}
+.vehicle .diesel_vehicles .monthly_grid .w248{max-width: 210px;}
+.publications_grid ul.mgrid li{max-width: 377px;}
+.lambda .box3{max-width: 326px;padding:19px 15px 17px;}
+.lambda .col11{max-width: 352px;}
+.lambda .row12 .col1{max-width: 338px;}
+.lambda .row12 .col1 img{height:auto;}
+.lambda .row12 .box9ca36f{max-width: 362px;padding: 13px;}
+.lambda .scenario ul.mgrid li{max-width: 174px;}
+.lambda .col16{max-width: 345px;}
+.lambda .divAuto .col1{max-width: 363px;}
+.lambda .divAuto .box5{max-width: 327px;padding: 14px;}
+.lambda .vehicle_type ul.mgrid li.w280{max-width: 195px;}
+
+.harmonization .col1{max-width: 383px;}
+.harmonization .emissonpg{max-width:339px;}
+.harmonization .box3{max-width: 341px;padding: 19px 17px 17px;}
+.harmonization .col11{max-width: 342px;}
+.notification .view_registration ul.grid li.w250{width: 213px;}
+.notification .view_registration ul.grid li.w157{width: 392px;}
+.motor_rules .automobile_grid .horrizontal_li .w200{width: 140px;}
+
+.who_we_are .col1, .economic_affairs .col1, .exim_policy .col1, .wto_automative .col1{max-width: 347px;}
+.who_we_are .col2, .economic_affairs .col2, .exim_policy .col16, .wto_automative .col16{max-width: 357px;}
+.who_we_are .divAuto .col1{max-width: 347px;}
+.who_we_are .divAuto .box{max-width: 357px;padding:19px 8px 17px 14px;}
+.president_membergrid li{margin-right: 26px;width: 158px;}
+.partnerPg .col1, .partnerPg .emissonpg{max-width: 353px;}
+.vatPage .monthly_grid ul.mgrid li {max-width: 349px;}
+
+.budget_memorandum .greenBox{max-width: 302px;padding: 13px; margin-right:8px;}
+.budget_memorandum .col2{max-width: 384px;}
+.budget_memorandum .horrizontal_li .w200{ width:139px;}
+.budget_memorandum .segment_grid1 .horrizontal_li .w108 {width: 103px;}
+.budget_memorandum .box10{max-width: 303px;padding: 17px 15px 0;}
+.taxTableGrid .automobile_grid .horrizontal_li li.w549 {max-width: 305px;}
+.taxTableGrid .automobile_grid .horrizontal_li li.w456 {max-width: 297px;}
+.trade_policies .col2{max-width:307px;}
+.gross_turnoverList .view_registration ul.grid li.w157{width: 112px;}
+.capacity li{margin-right: 12px;max-width: 347px;}
+.automobile_grid .horrizontal_li .w200{width: 99px;}
+.automobile_grid .horrizontal_li .w108{width: 99px;}
+.memeberSearchd li.btnlink{right: 141px;}
+.memebersGrid3 ul.grid li.w157{width: 215px;}
+.members_list .claendarM ul.grid li.w250{width: 392px;}
+.search_box .search2 li{margin-right:16px;}
+.search_box .search2 li.btnlink{top:10px;}
+.members_list .circularPAge ul.grid li.w250{width: 225px;}
+.circular_details .frm li label{width:583px;}
+.members_list .circularDetailPage ul.grid li.w250{width: 489px;}
+.siamRegistrationFrm li{width: 306px;}
+.siamRegistrationFrm li .select-pointer{right:5px;}
+.siamRegistrationFrm li.btnlink a{margin-right: 11px;}
+.siamRegistrationFrm li input, .siamRegistrationFrm li textarea{width: 164px;}
+.siamRegistrationFrm li select{width: 178px;}
+.siamRegistrationFrm li.stateOption select{width: 179px;}
+.members_list .statReportsPage ul.grid li.w250{width: 212px;}
+.members_list .statReportsPage ul.grid li.w88{width: 44px;}
+
+.members_list .viewCommittee ul.grid li.w250{width: 191px;}
+.members_list .viewCommittee ul.grid li.w88{width: 44px;}
+.members_list .viewCommittee ul.grid li.w95{width: 41px;}
+
+.innercontent-container .micrositeLeft{padding:0 0 32px 9px; max-width:799px;margin:0 21px 0 0;}
+.inner-header-banner .micrositeLeft{margin: 0 4px 0 0;max-width: 795px;}
+.inner-header-banner .micrositeRight{max-width: 191px;float: right;}
+.microsite-header-bg .inner-header-banner{height:auto;}
+.innercontent-container{margin:46px auto 0;}
+.col10{max-width:363px;}
+.micrositeLeft .col11{max-width:369px;}
+.innercontent-container .micrositeRight{max-width: 179px; float:right;right: 14px;}
+
+
+/*5Aug 2015*/
+.events_registrationPg .magageProfile li label{width:100%;}
+.events_registrationPg .magageProfile li input, .magageProfile li textarea{width:260px;}
+.events_registrationPg .set input[type="text"]{width:37px;}
+.events_registrationPg input.mobTxt[type="text"]{width:154px; margin-right:48px;}
+.events_registrationPg .magageProfile li select{width:277px;}
+.events_registrationPg .frmLeft .magageProfile .select-pointer{right: 46px;top: 24px;}
+
+
+}
+
+
+
+
+
+@media screen and (min-width: 768px) and  (max-width: 799px){
+.navigationPanel{display:none;}
+.main320{display:block;}
+.headerCntr{max-width:756px; height:52px; margin:0px auto 0; padding-top:18px;}
+.menuCntr{max-width:756px;}
+.rightLinks{margin:26px 36px 0; float:right;}
+.main320 a.right{top:42px;}
+.dropdownNav ul li{padding:0 6px;}
+.dropdownNav ul li a{font-size:13px;}
+.acdmLft{left:-149px !important;}
+.bannerCntr{max-width:756px;}
+#bannermain{background-size: 100% 95%;}
+.banner-news-container .date{margin:12px 12px 0 0;}
+.banner-news-container .news-content{margin:18px 0 0; font-size:13px;}
+.banner-news-container .registration-btn-container{margin:8px 53px 0 0; width:125px; padding:0px;}
+.banner-news-container .registration-btn-container .btn{font-size:12px;width:111px;}
+.slider{max-width:723px;}
+.flexslider .flex-viewport{max-width:700px;}
+.content-container{max-width:750px;}
+.left-pnl{max-width:257px;}
+/*mid slider*/
+.hp-cntr-Block{margin:0 0 0 16px; max-width:285px;}
+.hp-right-pnl{float: left;margin: 0 0 0 20px;max-width: 172px;}
+.hp-right-pnl img{max-width:100%;}
+.hp-cntr-Block .anythingSlider{max-width:310px; margin:0 auto 15px;}
+.hp-cntr-Block .anythingSlider .sliderWrapper{max-width:280px;height:263px;}
+.hp-cntr-Block .anythingSlider{height:263px;}
+.anythingSlider .sliderWrapper ul li{max-width:280px;}
+/*mid slider*/
+.footer-wrapper{max-width:756px;}
+/*.siam-mamber ul li{max-width:94px;}*/
+.footer-right{width:37.6%;}
+.footer-left{width:56%;}
+.dropdownNav ul li.w1{width:63px;}
+.siam-mamber .bx-wrapper .bx-next{right: 10px;}
+.siam-mamber .bx-wrapper .bx-prev{left:4px;}
+.events li{width:343px; height:335px;padding-bottom:8px;}
+.news_detail li{width:98%;}
+.news_detail .col12{width:410px;}
+.news_detail .col13{width:319px; margin:46px 0 0 0;}
+.news_detail .col13 img{width:100%; height:auto;}
+.rightLinks ul li{padding:0 5px;}
+.rightLinks ul li.login a{margin-right: 2px;padding: 4px 15px 6px;}
+.contentRht{max-width:542px;}
+.media_grid li{width:157px; margin:10px 13px 9px;height:295px;}
+.print-ads li{height:220px;}
+.leftNav{max-width:200px}
+.gallery li{height:241px;}
+.gallery2 li{height:180px;}
+.careerPg .col1{max-width:100%; margin-bottom:20px;}
+.careerPg .emissonpg{max-width:100%;}
+.reach_us .col1{max-width:293px;}
+.reach_us .col2{max-width:242px;}
+.reach_us .col2 iframe{width:100%;}
+.btn3{width: 46%; min-height:60px; height:auto;}
+.gridBox .frmLeft{max-width: 250px;}
+.gridBox .frmRight{max-width: 250px;}
+.magageProfile li label{width:100%; margin-bottom:15px;}
+.magageProfile li input, .magageProfile li textarea{width:94%;}
+.magageProfile li select{width: 100%;}
+.frmLeft .magageProfile .select-pointer{right: 1px;top: 39px;}
+.frmRight .magageProfile .select-pointer{right: 3px;top: 39px;}
+.newsletter_grid .second-col{width:61%; padding-top:12px;}
+ul.mgrid li{max-width:320px;}
+.siam_statistical_information ul.mgrid li{width: 231px;}
+.siam_statistical_information .monthly_grid li.chekList{width:64px;}
+.monthly_grid .w248{max-width: 178px;}
+.contentRht .row1 .col9{max-width:100%;}
+.row1 .col7{max-width:100%;}
+.publications_grid ul.mgrid li{ max-width: 290px;}
+.publications_grid ul.mgrid li.w184{width: 115px;}
+.publications_grid ul.mgrid li.w140{width: 109px;}
+.caption-block .caption1{height:auto; padding-bottom:0;}
+.banner-news-container .news-content{margin:0; font-size:14px;padding-top:7px; line-height:40px;}
+.companyInfo ul.grid li.compLogoBox{margin-right:6px;width: 88px;}
+.members_list .companyInfo ul.grid li.w250{margin-right: 8px;width:118px;}
+.companyInfo ul.grid li.w236{margin-right: 6px;width: 123px;}
+.view_registration ul.grid li.w157{width: 96px;}
+.view_registration ul.grid li.w95{width: 61px;}
+.blueCntr{margin:12px 0 9px;}
+.topTxt{font-size:18px;}
+.whiteBullet li{line-height: 1.2;}
+.regulatory_page .divAuto .col1{max-width:100%;}
+.regulatory_page .divAuto .emissonpg{float: none;margin-bottom:20px;
+    max-width: 339px;}
+.regulatory_page .divAuto .emissonpg img{height:auto;}
+.regulatory_page .col1{max-width: 100%;}
+.regulatory_page .blueBox{max-width:92%;padding:19px 21px;}
+
+.regulatory_page .col1{max-width: 100%;}
+.regulatory_page .blueBox{max-width:90%;padding:19px 27px;}
+.emmisions_normsPg .col1, .emmisions_normsPg .emissonpg{max-width:100%;}
+.accordion_table .automobile_grid .horrizontal_li .w200{width: 93px;} .sceond .accordion_table .automobile_grid .horrizontal_li .w200{width:74px;}
+.emmisions_normsPg .emissonpg .br63{height: 29px;}
+
+.safety_regulation .divAuto .col1{max-width:100%;}
+.safety_regulation .divAuto .emissonpg{max-width:339px; float:none; margin-bottom:20px;}
+.safety_regulation .divAuto .emissonpg img{height:auto;}
+.safety_regulation .notification_table .view_registration ul.grid li.w88{width:47px; }
+.safety_regulation .notification_table .view_registration ul.grid li.w151{width: 98px;padding-right: 5px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w95{width: 79px;padding-right: 7px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w250{ width: 151px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w157{width: 126px; }
+.safety_regulation .component_list .col155{width: 201px;}
+.notification_table .view_registration .verticlgrid li{word-wrap:break-word;}
+.diesel_vehicles ul.mgrid li{max-width: 211px;}
+.vehicle .diesel_vehicles .monthly_grid .w248{max-width: 210px;}
+.lambda .box3{max-width: 91%;padding:19px 24px 17px; margin-bottom:20px;}
+.lambda .col11{max-width: 100%;}
+.lambda .row12 .col1{max-width: 338px; float:none; margin: 0 auto;}
+.lambda .row12 .col1 img{height:auto;}
+.lambda .row12 .box9ca36f{max-width: 95%;padding: 13px;}
+.lambda .scenario ul.mgrid li{max-width: 112px;}
+.lambda .col16{max-width: 100%;}
+.lambda .divAuto .col1{max-width: 100%;}
+.lambda .divAuto .box5{max-width: 94%;padding: 14px; margin-bottom:20px;}
+.lambda .vehicle_type ul.mgrid li.w280{max-width: 195px;}
+.lambda .vehicle_type ul.mgrid li{max-width: 161px;}
+
+.harmonization .col1{max-width: 100%;}
+.harmonization .emissonpg{max-width:100%;}
+.harmonization .box3{max-width:93%;padding: 19px 17px 17px; margin: 20px 0;}
+.harmonization .col11{max-width:100%;}
+.notification .view_registration ul.grid li.w250{width: 114px;}
+.notification .view_registration ul.grid li.w157{ margin-left: 9px;width: 302px;}
+.motor_rules .automobile_grid .horrizontal_li .w200{margin-left: 9px;}
+.president_membergrid li{margin-right: 14px;width: 168px;}
+.partnerPg .col1, .partnerPg .emissonpg{max-width: 270px;}
+.vatPage .monthly_grid ul.mgrid li {max-width: 257px;}
+
+.budget_memorandum .greenBox{max-width: 95%;padding: 13px; margin-right:8px;}
+.budget_memorandum .col2{max-width: 100%;}
+.budget_memorandum .horrizontal_li .w200{ width:87px;}
+.budget_memorandum .segment_grid1 .horrizontal_li .w108 {width: 70px;}
+.budget_memorandum .box10{max-width: 95%;padding: 17px 15px 0; margin-bottom:20px;}
+.taxTableGrid .automobile_grid .horrizontal_li li.w549 {max-width: 212px;}
+.taxTableGrid .automobile_grid .horrizontal_li li.w456{margin-right: 9px;    max-width: 114px;}
+.trade_policies .col1{max-width:290px;}
+.trade_policies .col2{max-width:250px;}
+.wto_automative .col1, .wto_automative .col16{max-width:265px;}
+.gross_turnoverList .view_registration ul.grid li.w157{width:75px;}
+.capacity li{margin-right: 9px;max-width: 262px;}
+.capacity li .w256{width: 170px;}
+.capacity li ul li.topRow{font-size: 18px;}
+.domestic_marketShare .capacity li{max-width: 364px;}
+.automobile_grid .horrizontal_li .w200{width: 68px;}
+.automobile_grid .horrizontal_li .w108{width: 75px;}
+
+.memeberSearchd li{margin-right: 6px;}
+.memeberSearchd li.btnlink{right: 57px;}
+.memebersGrid3 ul.grid li.w157{width: 160px;}
+.memebersGrid3 ul.grid li.w95 {width: 104px;}
+
+.search_box .search2 li{margin-right: 18px; width:167px;}
+.search_box .search2 li.btnlink{left: 35px;right: 0;top: 9px;}
+.members_list .claendarM ul.grid li.w250{width: 253px;}
+.members_list .circularPAge ul.grid li.w250{width: 184px;}
+.members_list .circularPAge ul.grid li.w88{width: 49px;}
+.circular_details .frm li label{width:400px;}
+.members_list .circularDetailPage ul.grid li.w250{width: 337px;}
+.memberDetailPage .magageProfile li label{width:158px;}
+.memberDetailPage .magageProfile li.memberLogo{width: 102px;}
+.memberDetailPage .magageProfile li.memberLogo label{width: 104px;}
+.documentPg .search2 li.btnlink{top:0px;}
+.search2 li .eventYear {width: 163px;}
+.search2 li select {width: 100%;}
+.siamRegistrationFrm li{width: 260px;}
+.siamRegistrationFrm li .select-pointer{right:5px;}
+.siamRegistrationFrm li.btnlink a{margin-right: 5px; padding:6px 16px 7px;font-size: 13px;}
+.siamRegistrationFrm li input, .siamRegistrationFrm li textarea{width: 122px;}
+.siamRegistrationFrm li select{width: 136px;}
+.siamRegistrationFrm li.stateOption select{width: 136px;}
+.members_list .statReportsPage ul.grid li.w250{width: 154px;}
+.members_list .statReportsPage ul.grid li.w88{width: 44px;}
+.members_list .viewCommittee ul.grid li.w250{width: 145px;}
+.members_list .viewCommittee ul.grid li.w88{width: 44px;}
+.members_list .viewCommittee ul.grid li.w95{width: 41px;}
+.members_list .viewCommittee ul.grid li.w236 {width: 153px;}
+.members_list .viewCommittee ul.grid li.w157{width: 109px;}
+
+
+.innercontent-container .micrositeLeft{padding:0 0 32px 8px; max-width:98%;}
+.inner-header-banner .micrositeLeft{float: none;margin: 0 auto;max-width:99%;}
+.inner-header-banner .micrositeRight{max-width: 97%;padding:10px 10px 10px 4px;}
+.microsite-header-bg .inner-header-banner{height:auto;}
+.innercontent-container{margin: 29px auto 0;}
+.headerLeftLink li {display: inline-block;margin:0px;}
+.headerLeftLink li a{padding: 6px 9px;}
+
+.col10{max-width:363px;}
+.micrositeLeft .col11{max-width:369px;}
+.innercontent-container .micrositeRight{float:left;left:9px;max-width: 203px;    right: 0;margin-bottom: 10px; bottom:0px; padding-top:0px;}
+
+/*5Aug 2015*/
+.events_registrationPg .magageProfile li label{width:100%;}
+.events_registrationPg input.mobTxt[type="text"]{width:183px; margin-right:4px;}
+
+
+}
+
+
+
+@media screen and (min-width: 800px) and (max-width: 979px) {
+.navigation ul li{padding:0 6.8px 2px;}
+.navigation ul li a{font-size:13px;}
+.navigation ul li.active{background-position:0 45px;}
+.navigation ul ul{margin-left:-7px;}
+.navigation .last_nav ul{margin:0 0 0 -150px;}
+.navigation ul ul ul{left:102.5%;}
+.btn3{width: 46%; min-height:60px; height:auto;}
+.headerCntr{max-width:788px;}
+.menuCntr{max-width:788px;}
+.rightLinks{margin:26px 0 0;}
+.dropdownNav ul li{padding:0 9px;}
+.dropdownNav ul li a{font-size:13px;}
+.acdmLft{left:-149px !important;}
+.bannerCntr{max-width:788px;}
+#bannermain{background-size: 100% 95%;}
+.banner-news-container .date{margin:12px 12px 0 0;}
+.caption-block .caption1{height:auto; padding-bottom:9px;}
+.navigation ul li:last-child ul{background-position:140px 0;}
+.banner-news-container .news-content{margin:0; font-size:14px;padding-top:12px; line-height:28px;}
+.banner-news-container .registration-btn-container{margin:9px 53px 0 0; width:125px; padding:0px;}
+.banner-news-container .registration-btn-container .btn{font-size:12px;width:111px;}
+.slider{max-width:751px;}
+.flexslider .flex-viewport{max-width:720px;}
+.content-container{max-width:782px;}
+.left-pnl{max-width:257px;}
+/*mid slider*/
+.hp-cntr-Block{margin:0 0 0 16px; max-width:320px;}
+.hp-right-pnl{float: left;margin: 0 0 0 20px;max-width: 157px;}
+.hp-right-pnl img{max-width:100%;}
+.hp-cntr-Block .anythingSlider{max-width:330px;}
+.hp-cntr-Block .anythingSlider .sliderWrapper{max-width:310px; height:234px;}
+.hp-cntr-Block .anythingSlider{height:261px; margin:0 auto 23px;}
+.anythingSlider .sliderWrapper ul li{max-width:310px; height:234px;}
+/*mid slider*/
+.footer-wrapper{max-width:788px;}
+/*.siam-mamber ul li{max-width:97px;}*/
+.footer-right{width:35.7%;}
+.footer-left{width:58%;}
+.dropdownNav ul li.w1{width:63px;}
+.siam-mamber .bx-wrapper .bx-next{right: 10px;}
+.siam-mamber .bx-wrapper .bx-prev{left:4px;}
+
+.events li{width:249px; height:373px; margin-right:14px; padding-bottom:19px; margin-bottom:33px;}
+.pagination{margin-bottom:20px;}
+.news_detail li{width:98%;}
+.news_detail .col12{width:439px;}
+.news_detail .col13{width:319px; margin:46px 0 0 0;}
+.news_detail .col13 img{width:100%; height:auto;}
+
+.contentRht{max-width:542px;}
+.media_grid li{width:157px; margin:10px 13px 9px; height:295px;}
+.print-ads li{height:220px;}
+.leftNav{max-width:230px}
+.gallery li{height:241px;}
+.gallery2 li{height:180px;}
+.careerPg .col1{max-width:100%; margin-bottom:20px;}
+.careerPg .emissonpg{max-width:100%;}
+
+.reach_us .col1{max-width:293px;}
+.reach_us .col2{max-width:242px;}
+.reach_us .col2 iframe{width:100%;}
+.gridBox .frmLeft{max-width: 250px;}
+.gridBox .frmRight{max-width: 250px;}
+.magageProfile li label{/*width:100%;*/ margin-bottom:15px;}
+.magageProfile li input, .magageProfile li textarea{width:94%;}
+.magageProfile li select{width: 100%;}
+.frmLeft .magageProfile .select-pointer{right: 1px;top: 39px;}
+.frmRight .magageProfile .select-pointer{right: 3px;top: 39px;}
+.newsletter_grid .second-col{width:73%; padding-top:15px;}
+ul.mgrid li{max-width: 331px;}
+.siam_statistical_information ul.mgrid li{width: 231px;}
+.monthly_grid .w248{max-width: 178px;}
+.contentRht .row1 .col9{max-width:100%;}
+.row1 .col7{max-width:100%;}
+
+.publications_grid ul.mgrid li{ max-width: 289px;}
+.publications_grid ul.mgrid li.w184{width: 115px;}
+.publications_grid ul.mgrid li.w140{width: 109px;}
+.topTxt{font-size:20px;}
+
+.companyInfo ul.grid li.compLogoBox{margin-right:6px;width: 88px;}
+.members_list .companyInfo ul.grid li.w250{margin-right: 8px;width:118px;}
+.companyInfo ul.grid li.w236{margin-right: 6px;width: 123px;}
+.view_registration ul.grid li.w157{width: 96px;}
+.view_registration ul.grid li.w95{width: 61px;}
+.regulatory_page .divAuto .col1{max-width:100%;}
+.regulatory_page .divAuto .emissonpg{float: none;margin-bottom:20px;
+    max-width: 339px;}
+.regulatory_page .divAuto .emissonpg img{height:auto;}
+.regulatory_page .col1{max-width: 100%;}
+.regulatory_page .blueBox{max-width:90%;padding:19px 27px;}
+.emmisions_normsPg .col1, .emmisions_normsPg .emissonpg{max-width:100%;}
+.accordion_table .automobile_grid .horrizontal_li .w200{width: 93px;} .sceond .accordion_table .automobile_grid .horrizontal_li .w200{width:74px;}
+
+.safety_regulation .divAuto .col1{max-width:100%;}
+.safety_regulation .divAuto .emissonpg{max-width:339px; float:none; margin-bottom:20px;}
+.safety_regulation .divAuto .emissonpg img{height:auto;}
+.safety_regulation .notification_table .view_registration ul.grid li.w88{width:47px; }
+.safety_regulation .notification_table .view_registration ul.grid li.w151{width: 98px;padding-right: 5px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w95{width: 79px;padding-right: 7px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w250{ width: 151px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w157{width: 126px; }
+.safety_regulation .component_list .col155{width: 201px;}
+.notification_table .view_registration .verticlgrid li{word-wrap:break-word;}
+.diesel_vehicles ul.mgrid li{max-width: 211px;}
+.vehicle .diesel_vehicles .monthly_grid .w248{max-width: 210px;}
+
+.lambda .box3{max-width: 91%;padding:19px 24px 17px; margin-bottom:20px;}
+.lambda .col11{max-width: 100%;}
+.lambda .row12 .col1{max-width: 338px; float:none; margin: 0 auto;}
+.lambda .row12 .col1 img{height:auto;}
+.lambda .row12 .box9ca36f{max-width: 95%;padding: 13px;}
+.lambda .scenario ul.mgrid li{max-width: 112px;}
+.lambda .col16{max-width: 100%;}
+.lambda .divAuto .col1{max-width: 100%;}
+.lambda .divAuto .box5{max-width: 94%;padding: 14px; margin-bottom:20px;}
+.lambda .vehicle_type ul.mgrid li.w280{max-width: 195px;}
+.lambda .vehicle_type ul.mgrid li{max-width: 161px;}
+
+.harmonization .col1{max-width: 100%;}
+.harmonization .emissonpg{max-width:100%;}
+.harmonization .box3{max-width:93%;padding: 19px 17px 17px; margin: 20px 0;}
+.harmonization .col11{max-width:100%;}
+.notification .view_registration ul.grid li.w250{width: 114px;}
+.notification .view_registration ul.grid li.w157{ margin-left: 9px;width: 302px;}
+.motor_rules .automobile_grid .horrizontal_li .w200{width: 103px;}
+
+.who_we_are .col1, .economic_affairs .col1, .exim_policy .col1{max-width:100%;}
+.who_we_are .col2, .economic_affairs .col2{float:left; text-align:left; margin-bottom:20px;}
+.who_we_are .divAuto .col1{margin-bottom:20px;}
+.who_we_are .divAuto .box{max-width:96%;padding: 26px 8px 10px 14px;}
+.president_membergrid li{margin-right: 14px;width: 168px;}
+.partnerPg .col1, .partnerPg .emissonpg{max-width: 270px;}
+.vatPage .monthly_grid ul.mgrid li {max-width: 257px;}
+
+.budget_memorandum .greenBox{max-width: 95%;padding: 13px; margin-right:8px;}
+.budget_memorandum .col2{max-width: 100%;}
+.budget_memorandum .horrizontal_li .w200{ width:87px;}
+.budget_memorandum .segment_grid1 .horrizontal_li .w108 {width: 70px;}
+.budget_memorandum .box10{max-width: 95%;padding: 17px 15px 0; margin-bottom:20px;}
+.taxTableGrid .automobile_grid .horrizontal_li li.w549 {max-width: 212px;}
+.taxTableGrid .automobile_grid .horrizontal_li li.w456{margin-right: 9px;    max-width: 114px;}
+.exim_policy .col16{ max-width:100%;}
+.trade_policies .col1{max-width:290px;}
+.trade_policies .col2{max-width:250px;}
+.wto_automative .col1, .wto_automative .col16{max-width:265px;}
+.gross_turnoverList .view_registration ul.grid li.w157{width:75px;}
+.capacity li{margin-right: 9px;max-width: 262px;}
+.capacity li .w256{width: 170px;}
+.capacity li ul li.topRow{font-size: 18px;}
+.domestic_marketShare .capacity li{max-width: 364px;}
+.automobile_grid .horrizontal_li .w200{width: 68px;}
+.automobile_grid .horrizontal_li .w108{width: 75px;}
+
+.memeberSearchd li{margin-right: 6px;}
+.memeberSearchd li.btnlink{right: 57px;}
+.memebersGrid3 ul.grid li.w157{width: 160px;}
+.memebersGrid3 ul.grid li.w95 {width: 104px;}
+
+.search_box .search2 li{margin-right: 18px; width:167px;}
+.search_box .search2 li.btnlink{left: 35px;right: 0;top: 9px;}
+.members_list .claendarM ul.grid li.w250{width: 253px;}
+.members_list .circularPAge ul.grid li.w250{width: 184px;}
+.members_list .circularPAge ul.grid li.w88{width: 49px;}
+
+.circular_details .frm li label{width:400px;}
+.members_list .circularDetailPage ul.grid li.w250{width: 337px;}
+.memberDetailPage .magageProfile li.memberLogo{width: 102px;}
+.memberDetailPage .magageProfile li.memberLogo label{width: 104px;}
+.search2 li select{width: 100%;}
+.search2 li .eventYear {width: 160px;}
+.documentPg .search2 li.btnlink{top:0px;}
+.documentPage ul.grid li.w157{width:115px;}
+
+.siamRegistrationFrm li{width: 260px;}
+.siamRegistrationFrm li .select-pointer{right:5px;}
+.siamRegistrationFrm li.btnlink a{margin-right: 5px; padding:6px 16px 7px;font-size: 13px;}
+.siamRegistrationFrm li input, .siamRegistrationFrm li textarea{width: 122px;}
+.siamRegistrationFrm li select{width: 136px;}
+.siamRegistrationFrm li.stateOption select{width: 136px;}
+.members_list .statReportsPage ul.grid li.w250{width: 154px;}
+.members_list .statReportsPage ul.grid li.w88{width: 44px;}
+
+.members_list .viewCommittee ul.grid li.w250{width: 145px;}
+.members_list .viewCommittee ul.grid li.w88{width: 44px;}
+.members_list .viewCommittee ul.grid li.w95{width: 41px;}
+.members_list .viewCommittee ul.grid li.w236 {width: 153px;}
+.members_list .viewCommittee ul.grid li.w157{width: 109px;}
+
+
+.innercontent-container .micrositeLeft{padding:0 0 32px 8px; max-width:98%;}
+.inner-header-banner .micrositeLeft{float: none;margin: 0 auto;max-width:99%;}
+.inner-header-banner .micrositeRight{max-width: 97%;padding:10px 10px 10px 4px;}
+.microsite-header-bg .inner-header-banner{height:auto;}
+.innercontent-container{margin: 29px auto 0;}
+.headerLeftLink li {display: inline-block;margin:0px;}
+.headerLeftLink li a{padding: 6px 9px;}
+
+.col10{max-width:363px;}
+.micrositeLeft .col11{max-width:369px;}
+.innercontent-container .micrositeRight{float:left;left:9px;max-width: 203px;    right: 0;margin-bottom: 10px; bottom:0px; padding-top:0px;}
+
+/*5Aug 2015*/
+.events_registrationPg .magageProfile li label{width:100%;}
+.events_registrationPg input.mobTxt[type="text"]{width:183px; margin-right:4px;}
+
+
+}
+
+
+
+
+@media screen and (min-width: 980px) and (max-width: 1023px) {
+.navigation ul li a{font-size:13px}
+.navigation ul ul li a{font-size:11px;}
+.navigation .last_nav ul{margin:0 0 0 -130px;}
+.flexslider .flex-viewport{max-width:900px;}	
+.headerCntr{max-width:967px;}
+.menuCntr{max-width:967px;}
+.rightLinks{margin:26px 0 0;}
+.dropdownNav ul li{padding:0 9px;}
+.dropdownNav ul li a{font-size:16px;}
+.acdmLft{left:-110px !important;}
+.bannerCntr{max-width:967px;}
+#bannermain{background-size: 100% 95%;}
+.banner-news-container .date{margin:18px 30px 0 0;}
+.banner-news-container .registration-btn-container{margin:9px 60px 0 0;}
+.slider{max-width:939px;}
+.content-container{max-width:967px;}
+.left-pnl{max-width:295px;}
+/*mid slider*/
+.hp-cntr-Block{margin:0 0 0 26px; max-width:363px;}
+.hp-right-pnl{float: left;margin: 0 0 0 20px;max-width: 259px;}
+.hp-right-pnl img{max-width:100%;}
+.hp-cntr-Block .anythingSlider{max-width:363px;}
+.hp-cntr-Block .anythingSlider .sliderWrapper{max-width:363px; height:205px;}
+.hp-cntr-Block .anythingSlider{height:224px; margin:0 auto 27px;}
+.anythingSlider .sliderWrapper ul li{max-width:363px; height:205px;}
+.siam-mamber .bx-wrapper .bx-next{right: -21px;}
+.siam-mamber .bx-wrapper .bx-prev{left:-25px;}
+/*mid slider*/
+.footer-wrapper{max-width:967px;}
+/*.siam-mamber ul li{max-width:120.7px;}*/
+.footer-right{width:28.7%;}
+.footer-left{width: 45%;}
+
+.events li{width:304px; height:353px; margin-right:25px}
+.pagination{margin-bottom:20px;}
+.siam-mamber .bx-wrapper{width:906px;}
+.news_detail li{width:98%;}
+.news_detail .col12{width:560px;}
+.news_detail .col13{width:382px; margin:46px 0 0 0;}
+.news_detail .col13 img{width:100%; height:auto;}
+.contentRht{max-width:732px;}
+.media_grid li{width:221px; margin:10px 13px 9px;}
+.print-ads li{height:250px;}
+.leftNav{max-width:224px}
+.gallery li{height:283px;}
+.gallery2 li{height:235px;}
+.careerPg .col1{max-width:369px;}
+.careerPg .emissonpg{max-width:352px;}
+.reach_us .col1{max-width:365px;}
+.reach_us .col2{max-width:354px;}
+.reach_us .col2 iframe{width:100%;}
+.magageProfile li label{width: 158px;}
+.magageProfile li input, .magageProfile li textarea{width: 170px;}
+.magageProfile li select{width: 183px;}
+.gridBox .frmLeft{max-width: 357px;}
+.gridBox .frmRight{max-width: 342px;}
+.newsletter_grid .second-col{width:78%;}
+.members_list .companyInfo ul.grid li.w250{margin-right: 6px;width: 156px;}
+.companyInfo ul.grid li.w236 {margin-right: 8px;width: 169px;}
+.view_registration ul.grid li.w157 {width: 157px;}
+ul.mgrid li{max-width:434px;}
+.siam_statistical_information ul.mgrid li{width:422px;}
+.contentRht .row1 .col9{max-width:371px;}
+.publications_grid ul.mgrid li{max-width:368px;}
+.caption-block .caption1{height:auto; padding-bottom:9px;}
+.navigation ul li:last-child ul{background-position:140px 0;}
+.banner-news-container .news-content{margin:0; font-size:14px;padding-top:12px; line-height:36px;}
+.regulatory_page .divAuto .col1{max-width:388px;}
+.regulatory_page .divAuto .emissonpg{max-width:339px;}
+.regulatory_page .divAuto .emissonpg img{height:auto;}
+.regulatory_page .col1{max-width: 369px;}
+.regulatory_page .blueBox{max-width: 332px;padding: 19px 12px;}
+.emmisions_normsPg .col1{max-width:360px;}
+.emmisions_normsPg .emissonpg{max-width:360px;}
+.accordion_table .automobile_grid .horrizontal_li .w200{width: 93px;}
+
+.safety_regulation .divAuto .col1{max-width:388px;}
+.safety_regulation .divAuto .emissonpg{max-width:339px;}
+.safety_regulation .divAuto .emissonpg img{height:auto;}
+.safety_regulation .notification_table .view_registration ul.grid li.w88{width:47px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w151{width: 125px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w95{width: 110px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w250{ width: 234px;}
+.safety_regulation .notification_table .view_registration ul.grid li.w157{width: 171px;}
+.lambda .box3{max-width: 326px;padding:19px 24px 17px;}
+.lambda .col11{max-width: 352px;}
+.lambda .row12 .col1{max-width: 338px;}
+.lambda .row12 .col1 img{height:auto;}
+.lambda .row12 .box9ca36f{max-width: 368px;padding: 13px;}
+.lambda .scenario ul.mgrid li{max-width: 175px;}
+.lambda .col16{max-width: 345px;}
+.lambda .divAuto .col1{max-width: 363px;}
+.lambda .divAuto .box5{max-width: 327px;padding: 14px;}
+.lambda .vehicle_type ul.mgrid li.w280{max-width: 195px;}
+
+.harmonization .col1{max-width: 383px;}
+.harmonization .emissonpg{max-width:339px;}
+.harmonization .box3{max-width: 341px;padding: 19px 17px 17px;}
+.harmonization .col11{max-width: 342px;}
+
+.notification .view_registration ul.grid li.w250{width: 213px;}
+.notification .view_registration ul.grid li.w157{width: 407px;}
+.motor_rules .automobile_grid .horrizontal_li .w200{width: 140px;}
+
+.who_we_are .col1{max-width: 347px;}
+.who_we_are .col2 {max-width: 357px;}
+.who_we_are .divAuto .col1{max-width: 347px;}
+.who_we_are .divAuto .box{max-width: 361px;padding: 26px 8px 10px 14px;}
+.partnerPg .col1, .partnerPg .emissonpg{max-width: 353px;}
+.vatPage .monthly_grid ul.mgrid li {max-width: 349px;}
+.budget_memorandum .greenBox{max-width: 302px;padding: 13px; margin-right:8px;}
+.budget_memorandum .col2{max-width: 384px;}
+.budget_memorandum .horrizontal_li .w200{ width:139px;}
+.budget_memorandum .segment_grid1 .horrizontal_li .w108 {width: 103px;}
+.budget_memorandum .box10{max-width: 303px;padding: 17px 15px 0;}
+.taxTableGrid .automobile_grid .horrizontal_li li.w549 {max-width: 305px;}
+.taxTableGrid .automobile_grid .horrizontal_li li.w456 {max-width: 311px;}
+.economic_affairs .col1, .exim_policy .col1, .trade_policies .col1, .wto_automative .col1{max-width: 347px;}
+.economic_affairs .col2, .exim_policy .col16, .trade_policies .col2, .wto_automative .col16{max-width: 357px;}
+.gross_turnoverList .view_registration ul.grid li.w157{width: 113px;}
+.capacity li{margin-right: 9px;max-width: 349px;}
+.automobile_grid .horrizontal_li .w200{width: 99px;}
+.automobile_grid .horrizontal_li .w108{width: 99px;}
+.memeberSearchd li.btnlink{right: 150px;}
+.memebersGrid3 ul.grid li.w157{width: 215px;}
+
+.search_box .search2 li{margin-right: 18px;}
+.search_box .search2 li.btnlink{right: 63px;top: 9px;}
+.members_list .claendarM ul.grid li.w250{width: 399px;}
+.members_list .circularPAge ul.grid li.w250{width: 184px;}
+.circular_details .frm li label{width:583px;}
+.members_list .circularDetailPage ul.grid li.w250{width: 500px;}
+.documentPg .search2 li.btnlink{top:0px;}
+
+.siamRegistrationFrm li{width: 306px;}
+.siamRegistrationFrm li .select-pointer{right:5px;}
+.siamRegistrationFrm li.btnlink a{margin-right: 11px;}
+.siamRegistrationFrm li input, .siamRegistrationFrm li textarea{width: 164px;}
+.siamRegistrationFrm li select{width: 178px;}
+.siamRegistrationFrm li.stateOption select{width: 179px;}
+
+.members_list .statReportsPage ul.grid li.w250{width: 212px;}
+.members_list .statReportsPage ul.grid li.w88{width: 44px;}
+
+.members_list .viewCommittee ul.grid li.w250{width: 191px;}
+.members_list .viewCommittee ul.grid li.w88{width: 44px;}
+.members_list .viewCommittee ul.grid li.w95{width: 41px;}
+
+
+
+.innercontent-container .micrositeLeft{padding:0 0 32px 8px; max-width:766px; margin:0 21px 0 0;}
+.inner-header-banner .micrositeLeft{margin: 0 4px 0 0;max-width: 766px;}
+.inner-header-banner .micrositeRight{max-width: 191px;float: right;}
+.microsite-header-bg .inner-header-banner{height:auto;}
+.innercontent-container{margin:46px auto 0;}
+.col10{max-width:363px;}
+.micrositeLeft .col11{max-width:369px;}
+.innercontent-container .micrositeRight{max-width: 179px; float:right;right: 14px;}
+
+/*5Aug 2015*/
+.events_registrationPg .magageProfile li label{width:100%;}
+.events_registrationPg .magageProfile li input, .magageProfile li textarea{width:260px;}
+.events_registrationPg .set input[type="text"]{width:37px;}
+.events_registrationPg input.mobTxt[type="text"]{width:166px; margin-right:30px;}
+.events_registrationPg .magageProfile li select{width:260px;}
+.events_registrationPg .frmLeft .magageProfile .select-pointer{right: 46px;top: 24px;}
+}
